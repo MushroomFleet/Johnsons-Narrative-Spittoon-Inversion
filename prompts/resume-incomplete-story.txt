@@ -1,8 +1,8 @@
-we can use the project instructions @/Paradistro-project-instructions.txt to finish an incomplete story in reverse, by guessing what happened previously to the scene, we will adhere to the project instructions when speculating, writing a single page at a time.
+we can use the project instructions @/project-instructions.txt to finish an incomplete story in reverse, by guessing what happened previously to the scene, we will adhere to the project instructions when speculating, writing a single page at a time.
 We will define the process methodology for this task in planning mode, then i will supply the final page of the story. we will then follow the @/Paradistro-project-instructions.txt while we:
 
 read the story in @/004/ these pages run from page 9 to 40, the end of the story.
-understand the instructions in @/Paradistro-project-instructions.txt
+understand the instructions in @/project-instructions.txt
 write "page8.txt" which aims to tell the story of how we reached @/004/page9.txt   use the data linked in the @/Paradistro-project-instructions.txt to inform the story content.
 repeat the instruction for each page until you reach the "page0.txt" which will be the start of this story.
 as you step through the pages, use the heroes journey in reverse, adjusted because we are starting from 9 of 41, when completed the missing 9 pages, to introduce elements to the story as you write each page.
