@@ -1,0 +1,8 @@
+we can use the project instructions @/Paradistro-project-instructions.txt to write a story in reverse, by guessing what happened in the scene, we will adhere to the project instructions when speculating, writing a single page at a time.
+We will define the process methodology for this task in planning mode, then i will supply the final page of the story. we will then follow the @/Paradistro-project-instructions.txt while we:
+
+read the @/STORY/page20.txt 
+understand the instructions in @/Paradistro-project-instructions.txt
+write "page19.txt" which aims to tell the story of how we reached @/STORY/page20.txt   use the data linked in the @/Paradistro-project-instructions.txt to inform the story content.
+repeat the instruction for each page until you reach the "page0.txt" which will be the start of this story.
+as you step through the pages, use the heroes journey in reverse, averaged over the 21 pages, to introduce elements to the story as you write each page.
