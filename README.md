@@ -76,6 +76,7 @@ Follow this process to create stories working backward from the conclusion:
 Choose from various story length templates:
 - 📄 10-page stories (prompts/10-page-story.txt)
 - 📑 20-page stories (prompts/20-page-story.txt)
+- 📑 30-page stories (prompts/30-page-story.txt)
 - 📚 40-page stories (prompts/40-page-story.txt)
 
 ### 🔍 Analysis and Improvement Workflow
