@@ -1,0 +1,4 @@
+we need to distill the information from @/Jovian-Dead-Drop-v2-3.pdf  my book into separate artifacts.
+- we will create a "world.txt" that distills the description, history and culture of the world into a page.
+- we will create a "characters.txt" that lists the characters in the story and breaks down various attributes including but not limited to: description, age, race, personality, quirks, role.
+- we will create a "speechstyles.txt" which will describe the speech style of each character listed in the "characters.txt" which aims to build in unique and deep personality by way of speech style
