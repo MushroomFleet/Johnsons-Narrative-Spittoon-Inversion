@@ -1,0 +1,5 @@
+*with draft.PDF loaded*
+
+We need .mermaid charts to explain in detail characteristics about this world called the corridor and technical .json files that are able to convey navy life in the corridor, types of airships for example. 
+We need a glossary of terms that are exclusive to this universe. 
+Create separate files in .txt format
