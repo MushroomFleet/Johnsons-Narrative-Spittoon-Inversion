@@ -1,0 +1,6 @@
+we will expand @/004/page0.txt by adding more information which describes the environment in greater detail, while following the @/Paradistro-project-instructions.txt 
+Speech will be preserved
+no story changes will be made
+read @/004/page0.txt
+expand the text by 200% by adding environmental details, weather, time of day, lighting or remarkable sights.
+describe the environment according to @/Paradistro-project-instructions.txt
