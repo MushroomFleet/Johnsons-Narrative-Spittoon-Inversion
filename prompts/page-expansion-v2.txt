@@ -1,0 +1,5 @@
+we will expand @/004/page0.txt by adding more information which describes the environment in greater detail, while following the @/project-instructions.txt 
+1. Speech will be preserved
+2. no story changes will be made
+3. read @/004/page0.txt
+4. expand the text by 200% by adding environmental details, weather, time of day, lighting or remarkable sights. Add details describing the scenes and locations with contextual awareness while adhering to @/project-instructions.txt 
