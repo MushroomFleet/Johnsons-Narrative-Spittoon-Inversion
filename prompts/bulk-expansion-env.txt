@@ -1,7 +1,7 @@
-we will expand @/007/page30.txt by adding more information which describes the environment in greater detail, while following the @/Jovian-project-instructions.txt  
+we will iterate the task over each file in @@/007/  by adding more information which describes the environment in greater detail, while following the @/Jovian-project-instructions.txt  
 1. Speech will be preserved
 2. no story changes will be made
 3. read @/007/page30.txt
 4. expand the text by 200% by adding environmental details, weather, time of day, lighting or remarkable sights. Add details describing the scenes and locations with contextual awareness while adhering to @/Jovian-project-instructions.txt 
-5. repeat from step (1) for @/007/page29.txt 
-7. expand the text according to this plan for each page until you complete @/007/page0.txt  
+5. process each file then decrement through the filenames repeating this task
+7. expand the texts according to this plan for each page until you complete @/007/page0.txt
