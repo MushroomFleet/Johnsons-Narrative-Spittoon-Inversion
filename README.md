@@ -3,6 +3,8 @@
 ## 📖 Introduction
 Welcome to **Narrative Spittoon Inversion**, a sophisticated framework for creative writing, story generation, analysis, and improvement! 🎉 This tool leverages the power of Large Language Models (LLMs) through VSCode and the Cline Extension to revolutionize your storytelling process.
 
+UPDATE: Added /default/ a complete project to test this with & new DEFAULT-20-page.txt (Prompt example).
+
 🔮 **What Can It Do?**
 - ✍️ **Collaborative Writing**: Work together with AI to craft compelling narratives
 - 🤖 **AI-Assisted Storytelling**: Generate creative content based on your world and characters
