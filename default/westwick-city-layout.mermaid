@@ -1,0 +1,40 @@
+graph TD
+    subgraph "Westwick City Elevation Map"
+        A["The Heights<br>Elevation: +45-60ft"] --- B["The Stilts<br>Elevation: +15-30ft"]
+        B --- C["Harbor Town<br>Elevation: +5-15ft"]
+        C --- D["The Shallows<br>Elevation: +0-10ft<br>Water Level: 1-3ft"]
+        D --- E["Drowntown<br>Elevation: -5-5ft<br>Water Level: 5-10ft"]
+        E --- F["The Depths<br>Elevation: -15-0ft<br>Water Level: 15-25ft"]
+    end
+
+    subgraph "Socioeconomic Status"
+        A -.- G["Upper Class<br>Government Officials<br>Corporate Executives"]
+        B -.- H["Upper-Middle Class<br>Scientists<br>Aerospace Engineers"]
+        C -.- I["Working Class<br>Dock Workers<br>Sailors<br>Smugglers"]
+        D -.- J["Lower-Middle Class<br>Factory Workers<br>Small Business Owners"]
+        E -.- K["Lower Class<br>Scavengers<br>Black Market Dealers"]
+        F -.- L["Outcasts<br>Criminal Elements<br>'Water Rats'"]
+    end
+
+    subgraph "Transportation Methods"
+        A -.- M["Traditional Automobiles<br>Private Helicopters"]
+        B -.- N["Elevated Trams<br>Walkways<br>Limited Auto Access"]
+        C -.- O["Modified Amphibious Vehicles<br>Small Boats<br>Harbor Ferries"]
+        D -.- P["Canal Boats<br>Elevated Walkways<br>Specialized Water Vehicles"]
+        E -.- Q["Exclusively Boat-Based<br>Submersible Craft"]
+        F -.- R["Specialized Deep-Water Craft<br>Salvage Submarines"]
+    end
+
+    classDef heights fill:#8B4513,color:white
+    classDef stilts fill:#CD853F,color:black
+    classDef harbor fill:#DAA520,color:black
+    classDef shallows fill:#6495ED,color:white
+    classDef drowntown fill:#4682B4,color:white
+    classDef depths fill:#191970,color:white
+
+    class A heights
+    class B stilts
+    class C harbor
+    class D shallows
+    class E drowntown
+    class F depths

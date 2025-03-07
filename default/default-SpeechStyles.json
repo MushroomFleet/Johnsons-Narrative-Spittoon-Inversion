@@ -1,0 +1,144 @@
+﻿{
+  "speechStyles": [
+    {
+      "name": "Maya Chen-Williams",
+      "style": {
+        "vocabulary": "Academic and precise, with occasional scientific terminology, especially when discussing artifacts",
+        "sentence_structure": "Methodical and well-structured, favors complex sentences when analyzing but shifts to shorter, direct statements when emotional",
+        "speaking_patterns": [
+          "Often begins statements with observational phrases like 'I've noticed that...' or 'It appears that...'",
+          "Pauses briefly before delivering key insights",
+          "Occasionally uses Chinese phrases when expressing deep emotion",
+          "Whistles softly when thinking through complex problems",
+          "Transitions to more casual language with trusted friends"
+        ],
+        "catchphrases": [
+          "\"Fascinating structural integrity.\"",
+          "\"Let's consider this analytically.\"",
+          "\"Context is everything.\"",
+          "\"There's a pattern here we're missing.\"",
+          "\"Historically speaking...\""
+        ],
+        "emotional_tells": {
+          "when_nervous": "Speaks faster and whistles classical music fragments",
+          "when_excited": "Gestures animatedly and uses more technical terminology",
+          "when_angry": "Becomes extremely precise in her word choice and speaks in clipped tones",
+          "when_sad": "Speech becomes quieter and she includes more pauses between thoughts"
+        },
+        "cultural_influences": "Occasionally incorporates Mandarin expressions and African American vernacular, especially when with family or discussing heritage"
+      }
+    },
+    {
+      "name": "Elijah Morales-Singh",
+      "style": {
+        "vocabulary": "Practical, straightforward with occasional technical carpentry terms and military expressions",
+        "sentence_structure": "Prefers short, direct sentences. Uses longer explanations only when discussing his craftsmanship",
+        "speaking_patterns": [
+          "Often lets silence speak for him, comfortable with pauses",
+          "Speaks in a measured cadence, rarely rushed",
+          "Uses hand gestures when describing physical objects or spatial relationships",
+          "Tends to speak more in the morning, becoming quieter as the day progresses",
+          "Switches between English and Spanish when teaching carpentry skills"
+        ],
+        "catchphrases": [
+          "\"Measure twice, cut once.\"",
+          "\"Let's build something solid here.\"",
+          "\"There's a simple way and a right way.\"",
+          "\"Not all foundations are visible.\"",
+          "\"That'll hold.\""
+        ],
+        "emotional_tells": {
+          "when_nervous": "Reverts to shorter sentences and technical jargon",
+          "when_excited": "Incorporates more Spanish phrases and speaks with his hands",
+          "when_angry": "Becomes extremely quiet with deliberate word choice",
+          "when_sad": "References memories and past experiences more frequently"
+        },
+        "cultural_influences": "Intersperses Spanish phrases and Hindi expressions, especially when discussing family traditions or teaching craftsmanship"
+      }
+    },
+    {
+      "name": "Dr. Zain Okonkwo",
+      "style": {
+        "vocabulary": "Academic and highly technical, with frequent references to quantum theory and interdimensional concepts",
+        "sentence_structure": "Complex, often with multiple clauses and parenthetical asides that reflect their multifaceted thinking process",
+        "speaking_patterns": [
+          "Frequently code-switches between English, Farsi, and Yoruba when excited",
+          "Speaks in rapid bursts of information followed by thoughtful pauses",
+          "Often asks rhetorical questions then immediately answers them",
+          "Uses elaborate metaphors to explain complex scientific concepts",
+          "Tends to interrupt themselves with new ideas or connections"
+        ],
+        "catchphrases": [
+          "\"The quantum implications are fascinating!\"",
+          "\"Let me approach this multidimensionally.\"",
+          "\"This defies conventional paradigms.\"",
+          "\"The math tells a different story.\"",
+          "\"Theoretically speaking, of course.\""
+        ],
+        "emotional_tells": {
+          "when_nervous": "Speech accelerates and language mixing increases dramatically",
+          "when_excited": "Vocabulary becomes more technical and they reference equations by name",
+          "when_angry": "Becomes extremely precise and formal, using full titles and proper names",
+          "when_sad": "Speaks more poetically, incorporating cultural references from both heritages"
+        },
+        "cultural_influences": "Integrates Farsi proverbs and Yoruba expressions, especially when discussing philosophical implications of their work"
+      }
+    },
+    {
+      "name": "Sofia Tejada-Kim",
+      "style": {
+        "vocabulary": "Warm and accessible but precise, with occasional specialized terminology relating to cooking, plants, or intelligence work",
+        "sentence_structure": "Primarily uses simple, clear sentences when giving instructions or advice, but can shift to complex, layered language when discussing strategy",
+        "speaking_patterns": [
+          "Often uses terms of endearment from both Korean and Spanish",
+          "Speaks with a rhythmic cadence that puts others at ease",
+          "Occasionally drops subtle double-meanings that hint at her intelligence background",
+          "Tends to use cooking metaphors when explaining complex situations",
+          "Switches to whispered Korean when discussing sensitive information"
+        ],
+        "catchphrases": [
+          "\"Let's get to the root of this.\"",
+          "\"Every recipe needs balance.\"",
+          "\"Trust the process, but verify the ingredients.\"",
+          "\"Some things need time to rise.\"",
+          "\"We'll find a way through this maze.\""
+        ],
+        "emotional_tells": {
+          "when_nervous": "Incorporates more Korean phrases and references to plants",
+          "when_excited": "Speech becomes more colorful with Dominican expressions",
+          "when_angry": "Speaks with deceptive calmness and increased precision",
+          "when_sad": "Uses more metaphorical language and proverbs from both cultures"
+        },
+        "cultural_influences": "Seamlessly weaves Korean terms of respect and Dominican colloquialisms, often using food-related metaphors from both cultures"
+      }
+    },
+    {
+      "name": "Rafael \"Rafi\" Nguyen-Torres",
+      "style": {
+        "vocabulary": "Contemporary teen slang mixed with surprisingly sophisticated technical terminology when discussing programming",
+        "sentence_structure": "Typically uses short, casual sentences with friends, but can shift to complex technical explanations when passionate about a topic",
+        "speaking_patterns": [
+          "Often trails off sentences with '...whatever' when feeling vulnerable",
+          "Punctuates serious statements with humor or sarcasm as self-protection",
+          "Code-switches between English, Spanish, and Vietnamese based on topic and comfort level",
+          "Speaks rapidly when discussing technology or injustice",
+          "Uses pop culture references as communication shortcuts"
+        ],
+        "catchphrases": [
+          "\"That's just broken code.\"",
+          "\"System error, try again.\"",
+          "\"Not my problem to debug.\"",
+          "\"I'm just connecting the dots.\"",
+          "\"That's sus.\" (when suspicious)"
+        ],
+        "emotional_tells": {
+          "when_nervous": "Increases use of tech jargon and programming metaphors",
+          "when_excited": "Speech accelerates and includes more Spanish expressions",
+          "when_angry": "Becomes sarcastically formal with exaggerated politeness",
+          "when_sad": "Becomes minimally verbal, using single words or short phrases"
+        },
+        "cultural_influences": "Incorporates Vietnamese phrases from his grandmother, Mexican slang from his neighborhood, and programming terminology, creating a unique linguistic blend"
+      }
+    }
+  ]
+}

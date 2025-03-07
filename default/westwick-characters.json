@@ -1,0 +1,96 @@
+{
+  "archetypes": {
+    "law_enforcement": [
+      {
+        "title": "Flooded Beat Cop",
+        "description": "Police officers who patrol The Shallows and Drowntown, using modified boats and specialized equipment. Often corrupt but know the water-streets better than anyone.",
+        "typical_traits": ["Cynical", "Knows every canal", "Questionable loyalty", "Waterproof gear"],
+        "typical_haunts": ["Canal Street Precinct", "The Rusty Anchor", "Patrol boats"],
+        "typical_conflicts": "Torn between duty and taking bribes from Harbor Masters"
+      },
+      {
+        "title": "Heights Detective",
+        "description": "Investigators who primarily serve the wealthy in The Heights, often ignoring cases from flooded districts unless they affect the elite.",
+        "typical_traits": ["Well-dressed", "Political connections", "Disdain for 'water rats'", "Ambitious"],
+        "typical_haunts": ["City Hall", "The Lunarium Club", "Expensive restaurants"],
+        "typical_conflicts": "Cases that cross socioeconomic boundaries between dry and flooded areas"
+      },
+      {
+        "title": "Harbor Authority Officer",
+        "description": "Specialized law enforcement monitoring shipping, smuggling, and water traffic. Have jurisdiction disputes with regular police.",
+        "typical_traits": ["Naval background", "Knowledge of tides", "Independent streak", "Amphibious vehicle"],
+        "typical_haunts": ["Harbor Authority HQ", "Warehouse district", "Fog Point Lighthouse"],
+        "typical_conflicts": "Constant battle against smuggling operations bringing in moon artifacts"
+      }
+    ],
+    "criminals": [
+      {
+        "title": "Harbor Master",
+        "description": "Members of the powerful criminal syndicate controlling waterways, smuggling, and protection rackets.",
+        "typical_traits": ["Water navigation expertise", "Network of informants", "Violent when crossed", "Knowledge of pre-flood secrets"],
+        "typical_haunts": ["The Undertow", "Hidden boat houses", "Warehouse 13"],
+        "typical_conflicts": "Territorial disputes with other gangs and maintaining control of water routes"
+      },
+      {
+        "title": "Moon Runner",
+        "description": "Specialized smugglers who deal exclusively in lunar artifacts and experimental technology from research facilities.",
+        "typical_traits": ["Technical knowledge", "Corporate contacts", "Custom submersible", "Radiation scars"],
+        "typical_haunts": ["Drowntown black markets", "The Exchange after hours", "Hidden coves"],
+        "typical_conflicts": "Hunted by both police and corporate security for their valuable contraband"
+      },
+      {
+        "title": "Salvage Diver",
+        "description": "Divers who recover items from submerged buildings, operating in legal gray areas depending on what they retrieve.",
+        "typical_traits": ["Modified diving gear", "Knowledge of submerged architecture", "Independent operator", "Respiratory problems"],
+        "typical_haunts": ["Salvage Central", "The Depths", "Underwater passages"],
+        "typical_conflicts": "Discovering dangerous secrets or evidence while salvaging"
+      }
+    ],
+    "civilians": [
+      {
+        "title": "Tidal Engineer",
+        "description": "Scientists and engineers working on flood control or adaptation technologies, often with ties to The Tidal Commission.",
+        "typical_traits": ["Theoretical knowledge", "Guilt about failed projects", "Specialized equipment", "Obsessive patterns"],
+        "typical_haunts": ["Blue Moon Research Facility", "The Observatory Lounge", "Flood control stations"],
+        "typical_conflicts": "Knowledge of what really caused the flood versus what they can reveal"
+      },
+      {
+        "title": "Water Taxi Operator",
+        "description": "Boat operators who transport people between flooded districts, serving as mobile information networks.",
+        "typical_traits": ["Knows everyone's business", "Neutral in conflicts", "Customized vessel", "Weather prediction ability"],
+        "typical_haunts": ["Canal junctions", "Water taxi stands", "Westwick Central Market"],
+        "typical_conflicts": "Pressured to inform for both police and criminals"
+      },
+      {
+        "title": "Heights Socialite",
+        "description": "Wealthy residents of The Heights who rarely venture into flooded areas, maintaining pre-flood lifestyle.",
+        "typical_traits": ["Old money connections", "Political influence", "Disdain for 'wet feet'", "Collector of space memorabilia"],
+        "typical_haunts": ["The Lunarium Club", "Private estates", "Luna Corp events"],
+        "typical_conflicts": "Family secrets threatened by flood revelations"
+      }
+    ],
+    "shadow_elements": [
+      {
+        "title": "Tidal Commissioner",
+        "description": "Secret officials who serve in the shadow government, researching lunar phenomena and monitoring flood conditions.",
+        "typical_traits": ["Public persona", "Secret authority", "Extensive lunar knowledge", "Ruthless pragmatism"],
+        "typical_haunts": ["Secret research facilities", "Government offices after hours", "Monitoring stations"],
+        "typical_conflicts": "Keeping lunar secrets while managing flood control"
+      },
+      {
+        "title": "Submersible Agent",
+        "description": "Members of the underground resistance movement working against corporate control and government corruption.",
+        "typical_traits": ["Submerged living adaptation", "Anti-corporate ideology", "Modified technology", "Information network"],
+        "typical_haunts": ["Cathedral of the Deep", "Submerged resistance cells", "Rooftop Colony"],
+        "typical_conflicts": "Fighting the system while avoiding capture by authorities"
+      },
+      {
+        "title": "Luna Corp Security",
+        "description": "Corporate agents who protect company interests and retrieve leaked technology or moon artifacts.",
+        "typical_traits": ["Military background", "Advanced equipment", "Absolute loyalty", "Knowledge of classified projects"],
+        "typical_haunts": ["Luna Corp facilities", "Retrieval operations", "Monitoring posts in all districts"],
+        "typical_conflicts": "Recovery missions that reveal dangerous corporate secrets"
+      }
+    ]
+  }
+}

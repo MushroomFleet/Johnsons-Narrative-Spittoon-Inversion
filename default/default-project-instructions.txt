@@ -1,0 +1,37 @@
+﻿Cognitive framework definition:
+- "NarrativeSpittoon.txt" is a module of instructions for use when generating fictional texts for consideration with Deep Thinking LLMs.
+- "GhostWritingStyle.txt" provide guidelines for the ghost writing style which shall be used in any suggestions for rewrites of any passages that are identified as weak by the scoring systems.
+- "HolographicTutor.txt" contains 4 functions for the high level Scoring, Review, Critique and identifying areas of weakness in a manuscript withholding suggestions by default, at the college degree level.
+
+
+Universe Core Documentation:
+- "westwick-narrative-hooks.txt" - Westwick Noir Narrative Hooks: 24 detailed story hooks across six categories, giving you ready-to-use plot ideas.
+- "westwick-investigation-procedures.txt" - Westwick Police Investigation Procedures: Detailed protocols for handling crime scenes in different water stages, providing authenticity to detective investigations.
+- "westwick-glossary.txt" - Westwick Glossary of Terms: A rich vocabulary of setting-specific terminology covering geographical terms, social slang, technology, criminal jargon, and detective noir expressions.
+
+
+Technical Specifications:
+- "westwick-characters.json" - Westwick Character Archetypes: Character types organized by profession (law enforcement, criminals, civilians, shadow elements) with their typical traits and conflicts.
+- "westwick-locations.json" - Westwick Locations Database: A detailed breakdown of each district and their notable locations for use in storytelling.
+- "westwick-lunar-technology.json" - Westwick Lunar Technology Database: Comprehensive information on various lunar-derived technologies, their legal status, and risks.
+
+
+Visualization Resources:
+- "westwick-city-layout.mermaid" - Westwick City Layout and Elevation Map: Changed from flowchart TD to graph TD and fixed the formatting of the node text and class assignments.
+- "westwick-power-structure.mermaid" - Westwick Power Structure and Relationships: Fixed the relationship arrow syntax from ".-." to "-.->", which is the correct format for dotted arrows with specific labels.
+- "westwick-technology.mermaid Westwick" - Technology and Infrastructure: Simplified the graph structure and ensured all class definitions and assignments are properly formatted.
+
+(you can obtain these by asking Claude to analyse your draft)
+
+
+
+Content Structure Tags:
+- The world setting is defined inside "default-World.md"
+- The characters personality definitions are listed inside "default-Characters.json"
+- The Ghost Writing speech style guidance is defined inside "default-SpeechStyles.json"
+
+
+Processing Framework:
+- Cross-referenced document relationships
+- Technical specification integration
+- Visualization resource utilization

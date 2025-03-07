@@ -1,0 +1,60 @@
+graph TD
+    subgraph "Space-Age Technologies"
+        A["Lunar-Powered Devices"] --- A1["Moonstone Batteries"]
+        A --- A2["Lunar Radio Communicators"]
+        A --- A3["Gravitational Manipulators<br>'Grav-Locks'"]
+        
+        B["Modified Infrastructure"] --- B1["Waterproof Vacuum Tubes"]
+        B --- B2["Sealed Computer Systems"]
+        B --- B3["Hydro-Resistant Electronics"]
+        
+        C["Transportation Tech"] --- C1["Amphibious Automobiles"]
+        C --- C2["Water-Jet Propulsion"]
+        C --- C3["Personal Submersibles"]
+        C --- C4["Elevated Rail Systems"]
+    end
+    
+    subgraph "Flood Adaptation Systems"
+        D["Water Filtration"] --- D1["Desalination Plants"]
+        D --- D2["Contamination Detectors"]
+        
+        E["Building Modifications"] --- E1["Hydro-Sealing"]
+        E --- E2["Floatation Foundations"]
+        E --- E3["Pressure Equalization Valves"]
+        
+        F["Navigation Systems"] --- F1["Sonar Mapping"]
+        F --- F2["Underwater Waypoints"]
+        F --- F3["Fog Penetrating Radar"]
+    end
+    
+    subgraph "Experimental Prototypes"
+        G["Lunar Material Applications"] --- G1["Regolith Concrete"]
+        G --- G2["Gravity-Nullifying Alloys"]
+        
+        H["Failed Tidal Control"] --- H1["Wave Suppression Fields"]
+        H --- H2["Artificial Current Generators"]
+        
+        I["Black Market Tech"] --- I1["Modified Diving Equipment"]
+        I --- I2["Salvaged Military Hardware"]
+        I --- I3["Water-Based Weaponry"]
+    end
+    
+    classDef lunar fill:#9370DB,color:black
+    classDef infra fill:#708090,color:white
+    classDef transport fill:#4682B4,color:white
+    classDef water fill:#1E90FF,color:white
+    classDef building fill:#8B4513,color:white
+    classDef nav fill:#20B2AA,color:black
+    classDef material fill:#B8860B,color:black
+    classDef tidal fill:#4B0082,color:white
+    classDef black fill:#800000,color:white
+    
+    class A,A1,A2,A3 lunar
+    class B,B1,B2,B3 infra
+    class C,C1,C2,C3,C4 transport
+    class D,D1,D2 water
+    class E,E1,E2,E3 building
+    class F,F1,F2,F3 nav
+    class G,G1,G2 material
+    class H,H1,H2 tidal
+    class I,I1,I2,I3 black

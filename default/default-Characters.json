@@ -1,0 +1,79 @@
+﻿{
+  "characters": [
+    {
+      "name": "Maya Chen-Williams",
+      "age": 34,
+      "heritage": "Chinese and African American",
+      "description": "Tall, athletic build with curly black hair in a short undercut, warm amber eyes, and a crescent moon birthmark on her right forearm.",
+      "personality": "Methodical, analytical, empathetic, with a dry sense of humor.",
+      "quirks": [
+        "Obsessively organizes spice rack by color and usage frequency",
+        "Photographic memory for faces but forgets names",
+        "Whistles classical music when nervous",
+        "Collects unusual doorknobs",
+        "Cannot stand the texture of velvet"
+      ],
+      "role": "Forensic archaeologist specializing in ancient cultural artifacts, working on a controversial excavation connected to her family history."
+    },
+    {
+      "name": "Elijah Morales-Singh",
+      "age": 42,
+      "heritage": "Indian and Puerto Rican",
+      "description": "Stocky, powerful build with salt-and-pepper hair in a neat ponytail, weathered face, and a prominent scar across his chin.",
+      "personality": "Quietly confident, reliable, calm in crisis, reserved but deeply loyal.",
+      "quirks": [
+        "Names every power tool in his collection",
+        "Can identify tree species by touch and smell",
+        "Keeps a one-sentence daily journal",
+        "Passionate about competitive ballroom dancing",
+        "Always carries homemade salve from grandmother's recipe"
+      ],
+      "role": "Private Eye, retired detective and former military engineer running a community workshop for at-risk youth, concerned about ignored structural issues in a historical building."
+    },
+    {
+      "name": "Dr. Zain Okonkwo",
+      "age": 29,
+      "heritage": "Nigerian and Iranian",
+      "description": "Non-binary with slender build, close-cropped black hair with blue streak, hazel eyes, rectangular glasses, and fusion fashion style.",
+      "personality": "Brilliant, enthusiastically curious, optimistic, sometimes impractical, fiercely protective of friends.",
+      "quirks": [
+        "Creates elaborate handshakes with friends",
+        "Takes notes on vintage index cards",
+        "Has synesthesia connecting math equations with smells",
+        "Switches between three languages when excited",
+        "Collects antique medical instruments but fears blood"
+      ],
+      "role": "Quantum physicist with controversial theories about dimensional barriers, experiencing unexplainable experimental results."
+    },
+    {
+      "name": "Sofia Tejada-Kim",
+      "age": 56,
+      "heritage": "Korean and Dominican",
+      "description": "Petite but strong frame, silver-streaked black hair in a bun, expressive dark eyes, and conservative clothes with vibrant scarves.",
+      "personality": "Warm, maternal, shrewd, unflinchingly determined, pragmatic with a strong but flexible moral compass.",
+      "quirks": [
+        "Maintains collection of international emergency numbers",
+        "Cooks complex meals without recipes but measures simple ones precisely",
+        "Speaks to plants in Korean",
+        "Carries a smooth wooden token for stress",
+        "Encyclopedic knowledge of poisonous plants and antidotes"
+      ],
+      "role": "Respected community elder and retired intelligence operative running a bakery while helping people disappear and start new lives, now confronted by a former asset with dangerous information."
+    },
+    {
+      "name": "Rafael \"Rafi\" Nguyen-Torres",
+      "age": 17,
+      "heritage": "Vietnamese and Mexican",
+      "description": "Lanky teenager with warm brown skin, shaggy black hair, burn scar on left shoulder and upper arm, and casual style with hand-embroidered details.",
+      "personality": "Sarcastic exterior protecting sensitivity, observant, passionate about justice, struggles with trust but fiercely loyal.",
+      "quirks": [
+        "Creates and leaves origami figures during class",
+        "Has memorized numerous dad jokes despite disliking them",
+        "Maintains secret social media documenting urban wildlife",
+        "Follows superstitious pre-game rituals",
+        "Calculates tips instantly but pretends to struggle with math"
+      ],
+      "role": "Gifted high school programmer who discovered patterns in seemingly random city infrastructure failures, drawing unwanted attention from powerful figures."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+graph TD
+    A["City Hall<br>'Surface Government'"] --- B["Westwick Police Department"]
+    A --- C["Public Works & Flood Control"]
+    A --- D["Transportation Authority"]
+    
+    E["Luna Corp<br>Aerospace Conglomerate"] --- F["Research Division<br>'Blue Moon'"]
+    E --- G["Military Contracts<br>Classified Projects"]
+    E --- H["Consumer Technology<br>Space-Age Products"]
+    
+    I["The Tidal Commission<br>Shadow Government"] --- J["Lunar Phenomena Research"]
+    I --- K["Flood Monitoring<br>Hidden Agenda"]
+    I --- L["Secret Archives<br>Pre-Flood Records"]
+    
+    M["The Harbor Masters<br>Criminal Syndicate"] --- N["Smuggling Operations"]
+    M --- O["Black Market<br>Moon Artifacts"]
+    M --- P["Protection Rackets<br>Water Territory Control"]
+    
+    Q["The Submersibles<br>Underground Resistance"] --- R["Anti-Corporate Activism"]
+    Q --- S["Information Network<br>Hidden in The Depths"]
+    
+    A -.Opposition.-> M
+    A -.Puppets Of.-> I
+    A -.Influenced By.-> E
+    B -.Infiltrated By.-> M
+    B -.Takes Orders From.-> I
+    I -.Secret Partnership.-> E
+    E -.Hunted By.-> Q
+    M -.Wary Alliance.-> Q
+    
+    classDef surface fill:#8B4513,color:white
+    classDef police fill:#A0522D,color:white
+    classDef public fill:#CD853F,color:black
+    classDef corporate fill:#DAA520,color:black
+    classDef shadow fill:#4B0082,color:white
+    classDef criminal fill:#800000,color:white
+    classDef resistance fill:#006400,color:white
+    
+    class A,D surface
+    class B police
+    class C public
+    class E,F,G,H corporate
+    class I,J,K,L shadow
+    class M,N,O,P criminal
+    class Q,R,S resistance

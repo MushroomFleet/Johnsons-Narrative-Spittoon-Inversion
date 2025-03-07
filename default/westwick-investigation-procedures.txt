@@ -1,0 +1,156 @@
+# WESTWICK POLICE DEPARTMENT
+## DETECTIVE BUREAU PROCEDURE MANUAL
+### SPECIAL PROCEDURES FOR WATERLOGGED CRIME SCENES
+
+**DOCUMENT CLASSIFICATION: DEPARTMENT CONFIDENTIAL**
+**LAST UPDATED: MARCH 1953**
+
+## I. JURISDICTION PROTOCOLS
+
+1. **District Assignment**
+   * The Heights & Stilts Districts: Detective Division Alpha (DDA)
+   * Harbor Town & Shallows: Detective Division Beta (DDB)
+   * Drowntown & Depths: Detective Division Gamma (DDG)
+   * Cross-district cases require joint investigation authorization from precinct captains
+
+2. **Water Level Determination**
+   * Stage 1: Surface (dry conditions) - Standard procedures apply
+   * Stage 2: Shallow (ankle to knee depth) - Modified evidence collection
+   * Stage 3: Wading (knee to waist depth) - Specialized equipment required
+   * Stage 4: Deep (above waist) - Diving protocols mandatory
+   * Stage 5: Submerged (fully underwater) - DDG specialist team only
+
+3. **Jurisdictional Disputes**
+   * Harbor Authority supersedes WPD in all active waterways and commercial shipping areas
+   * Tidal Commission authorization required for any investigation involving flood control infrastructure
+   * Luna Corp Security has jurisdiction on all company property (as per City Ordinance 48-J)
+
+## II. EQUIPMENT REQUIREMENTS BY WATER STAGE
+
+1. **Stage 1-2 (Surface to Shallow)**
+   * Standard detective kit with waterproof case
+   * Department-issued jetsoles
+   * Water-resistant evidence bags and markers
+   * Portable water testing kit (contamination analysis)
+
+2. **Stage 3 (Wading)**
+   * All Stage 1-2 equipment
+   * Waterproof flashlight with fogcutter attachment
+   * Extendable sampling equipment
+   * Flotation devices for evidence preservation
+   * Basic sonarscope for bottom scanning
+
+3. **Stage 4-5 (Deep/Submerged)**
+   * All Stage 3 equipment
+   * Full diving apparatus with communication gear
+   * Underwater photography equipment
+   * Advanced sonarscope with recording capability
+   * Submersible evidence containment units
+   * Dive partner mandatory (no solo investigation)
+
+## III. EVIDENCE COLLECTION PROCEDURES
+
+1. **Documentation Protocols**
+   * Record water level and tidal stage at time of discovery
+   * Document drift patterns in area (use standard current marker dye)
+   * Note water clarity and contamination level
+   * Map underwater topography for submerged scenes
+   * Calculate time-in-water estimates based on degradation
+
+2. **Body Recovery**
+   * Stage 1-3: Standard procedures with waterproof body bag
+   * Stage 4-5: Specialized lifting equipment and flotation devices required
+   * All water-recovered bodies must be examined for:
+     * Water in lungs (drowning vs. "splash job" determination)
+     * Specialized water creature activity
+     * Current-related injuries vs. ante-mortem wounds
+     * Evidence of weight attachment (common in deliberate disposals)
+
+3. **Physical Evidence**
+   * All items recovered from water must be:
+     * Photographed in situ before recovery
+     * Measured for depth and drift distance from reference points
+     * Tested for residual lunar material contamination
+     * Preserved in isolation containers if water-reactive
+   * Paper documents require immediate preservation treatment
+   * Electronic devices must be sealed in dryboxes before transport
+
+4. **Witness Canvassing**
+   * Floatfolk communities require Harbor Authority liaison
+   * Water taxi operators must be formally interviewed in all Stage 3-5 cases
+   * Salvage divers may have prior knowledge of area - check licenses
+   * For Depth cases, consult "water rat" informant network via established contacts
+
+## IV. SPECIAL CONSIDERATIONS
+
+1. **Lunar Material Protocols**
+   * Any evidence showing traces of lunar material (blue phosphorescence under UV light) requires:
+     * Immediate notification to Precinct Captain
+     * Specialized containment procedures
+     * Moon Runner smuggling investigation cross-reference
+     * Possible Tidal Commission involvement
+
+2. **Flooding Patterns**
+   * Unusual water level changes must be documented
+   * Evidence movement prediction based on tidal charts required
+   * Consultation with Tidal Engineers for anomalous conditions
+   * Depth cases must account for structural instability of submerged buildings
+
+3. **Time Factors**
+   * Evidence degradation accelerated by water exposure (see appendix for rates)
+   * Witness reliability decreases dramatically for submerged incidents
+   * Body condition assessment requires specialized training for water immersion
+   * Water temperature calculations critical for time-of-death determination
+
+4. **Transportation Considerations**
+   * Stage A: Standard department vehicles
+   * Stage B: Amphibious vehicles only
+   * Stage C: Water taxi requisition authorized
+   * Stage D-E: Department submersible with qualified operator required
+
+## V. REPORTING REQUIREMENTS
+
+1. **Case Classification**
+   * Standard case prefix followed by water stage designation (1-5)
+   * "L" suffix required for any case involving lunar material
+   * "TC" suffix required for any case potentially involving Tidal Commission
+   * "HC" suffix required for cases with Harbor Authority coordination
+
+2. **Required Attachments**
+   * Water condition report (salinity, contamination, temperature)
+   * Tidal position chart for 48 hours prior to discovery
+   * Current mapping for evidence drift calculation
+   * Underwater topology report for Stages 4-5
+   * Luna Corp notice of investigation (if applicable)
+
+3. **Chain of Custody**
+   * Water-recovered evidence requires additional processing sign-offs
+   * Drying procedures must be documented for all water-exposed items
+   * Lunar contamination screening results required for all evidence
+   * Specialized storage requirements must be noted for water-damaged items
+
+## VI. INTERAGENCY PROTOCOLS
+
+1. **Harbor Authority Cooperation**
+   * Joint jurisdiction negotiation via Captain-level authorization only
+   * Evidence sharing requires dual-agency documentation
+   * Harbor patrol reports must be included in all waterway cases
+   * Water traffic logs to be requested for all Stage 3-5 investigations
+
+2. **Tidal Commission Interaction**
+   * TC representative required for all cases involving flood infrastructure
+   * Measurement data may be classified and redacted from public reports
+   * Evidence of lunar material requires TC notification within 4 hours
+   * Commission may assume jurisdiction with Director-level authorization
+
+3. **Luna Corp Security**
+   * Corporate security may observe but not interfere with WPD investigation
+   * Technology recovery requires dual-custody protocols
+   * Employee interviews must have Luna Corp counsel present
+   * Evidence of corporate espionage requires specialized handling
+
+4. **Medical Examiner Coordination**
+   * Water recovery form must accompany all bodies
+   * Specialized autopsy procedures for immersion victims
+   * Toxicology must include lunar material screening
+   * "Splash job" determination requires formal consultation

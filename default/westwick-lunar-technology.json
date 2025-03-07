@@ -1,0 +1,186 @@
+{
+  "lunar_technologies": {
+    "energy_systems": [
+      {
+        "name": "Moonstone Battery",
+        "classification": "Consumer Technology",
+        "availability": "Regulated Commercial",
+        "description": "Energy storage cells made with processed lunar regolith that holds charge 5-10 times longer than conventional batteries. Powers most personal electronics in Westwick.",
+        "legal_status": "Legal with registration",
+        "black_market_value": "Medium",
+        "notable_features": "Characteristic blue glow when charging, slight humming sound at full capacity",
+        "risks": "Can cause radiation burns if casing is damaged"
+      },
+      {
+        "name": "Lunar Photon Collector",
+        "classification": "Infrastructure Technology",
+        "availability": "Government & Corporate",
+        "description": "Large-scale energy generation system using specialized panels that collect and amplify moonlight into usable electricity. Used to power flood control systems and high-security facilities.",
+        "legal_status": "Restricted",
+        "black_market_value": "Very High",
+        "notable_features": "Silver dish arrays on rooftops of important buildings, connected to pulsing blue transmission lines",
+        "risks": "Power fluctuations during new moon phases, occasional energy surges during full moons"
+      },
+      {
+        "name": "Gravitational Potential Cell",
+        "classification": "Experimental",
+        "availability": "Prototype Only",
+        "description": "Advanced power source that harnesses lunar gravitational effects on Earth's tides to generate electricity. Currently used only in Luna Corp's most secretive projects.",
+        "legal_status": "Classified",
+        "black_market_value": "Extremely High",
+        "notable_features": "Requires precise positioning relative to moon phases to function properly",
+        "risks": "Catastrophic failures linked to unexplained flooding incidents"
+      }
+    ],
+    "transportation": [
+      {
+        "name": "Hydrojet Propulsion System",
+        "classification": "Consumer Technology",
+        "availability": "Common",
+        "description": "Water propulsion system derived from lunar module maneuvering technology, adapted for use in amphibious vehicles and boats in flooded districts.",
+        "legal_status": "Legal",
+        "black_market_value": "Low",
+        "notable_features": "Distinctive whining sound, minimal wake production",
+        "risks": "Prone to clogging in debris-filled waters of The Depths"
+      },
+      {
+        "name": "Personal Submersible",
+        "classification": "Specialized Vehicle",
+        "availability": "Limited",
+        "description": "Single-occupant underwater vehicles using atmospheric technology developed for lunar habitats. Used by law enforcement, salvage divers, and wealthy thrill-seekers.",
+        "legal_status": "Legal with Harbor Authority License",
+        "black_market_value": "High",
+        "notable_features": "Bubble-like transparent cockpit, articulated manipulator arms",
+        "risks": "Oxygen recycling failures can cause hallucinations before suffocation"
+      },
+      {
+        "name": "Grav-Assisted Transit System",
+        "classification": "Infrastructure Technology",
+        "availability": "The Stilts District Only",
+        "description": "Elevated tram system using gravity-nullifying technology to operate with minimal power and structural support. Primary transportation in The Stilts district.",
+        "legal_status": "Legal",
+        "black_market_value": "N/A (immobile)",
+        "notable_features": "Cars seem to float slightly above rails, completely silent operation",
+        "risks": "Occasional system-wide failures during unusual lunar alignments"
+      }
+    ],
+    "communication": [
+      {
+        "name": "Lunar Relay Network",
+        "classification": "Infrastructure Technology",
+        "availability": "Government & Corporate",
+        "description": "Communication system that bounces signals off the lunar surface, allowing for secure transmissions that bypass normal radio interception methods.",
+        "legal_status": "Restricted",
+        "black_market_value": "High (access codes)",
+        "notable_features": "Special antenna arrays with rotating dishes that track moon position",
+        "risks": "Signal quality dependent on lunar visibility, compromised during heavy fog"
+      },
+      {
+        "name": "Pocket Moon Radio",
+        "classification": "Consumer Technology",
+        "availability": "Underground/Black Market",
+        "description": "Modified radio receivers that can intercept lunar relay transmissions. Popular among journalists, criminals, and the resistance movement.",
+        "legal_status": "Illegal",
+        "black_market_value": "Medium",
+        "notable_features": "Small silver device with extendable crystalline antenna",
+        "risks": "Possession is evidence of conspiracy against Luna Corp or government"
+      }
+    ],
+    "materials": [
+      {
+        "name": "Regolith Concrete",
+        "classification": "Construction Material",
+        "availability": "Limited Commercial",
+        "description": "Building material infused with processed lunar regolith, making it waterproof and resistant to water damage. Used in newer construction in flood-prone areas.",
+        "legal_status": "Legal",
+        "black_market_value": "Low",
+        "notable_features": "Slightly bluish-gray color, cool to touch even in heat",
+        "risks": "Prolonged skin contact can cause mild radiation exposure"
+      },
+      {
+        "name": "Lunar Alloy",
+        "classification": "Specialized Material",
+        "availability": "Restricted",
+        "description": "Metal alloy incorporating lunar materials that is exceptionally strong yet lightweight. Used in specialized construction and high-end watercraft.",
+        "legal_status": "Regulated",
+        "black_market_value": "High",
+        "notable_features": "Silvery sheen that seems to reflect moonlight more intensely than normal",
+        "risks": "Can interfere with conventional navigation equipment"
+      },
+      {
+        "name": "Hydrophobic Coating",
+        "classification": "Consumer Technology",
+        "availability": "Common",
+        "description": "Surface treatment developed from lunar module thermal protection, creates completely waterproof barrier on any material.",
+        "legal_status": "Legal",
+        "black_market_value": "Low",
+        "notable_features": "Causes water to form perfect spheres that roll off treated surfaces",
+        "risks": "Highly flammable in concentrated form"
+      }
+    ],
+    "experimental_devices": [
+      {
+        "name": "Tidal Manipulation Array",
+        "classification": "Failed Prototype",
+        "availability": "Officially Destroyed",
+        "description": "System designed to control water levels using lunar gravitational principles. Malfunction of this technology is rumored to have caused the original flooding disaster.",
+        "legal_status": "Banned",
+        "black_market_value": "Astronomical",
+        "notable_features": "Massive underwater lattice structures with control stations disguised as flood monitoring equipment",
+        "risks": "Catastrophic tidal surge potential, considered a weapon of mass destruction"
+      },
+      {
+        "name": "Selenotropic Field Generator",
+        "classification": "Theoretical",
+        "availability": "Research Only",
+        "description": "Device that can supposedly manipulate physical properties of objects by amplifying lunar energy. Existence denied by Luna Corp but rumored to be in development.",
+        "legal_status": "Classified",
+        "black_market_value": "Unknown",
+        "notable_features": "Said to produce visible distortion effects in air and water",
+        "risks": "Reported test subjects experienced molecular instability"
+      },
+      {
+        "name": "Lunar Resonance Detector",
+        "classification": "Investigative Tool",
+        "availability": "Tidal Commission Only",
+        "description": "Specialized equipment that can detect trace elements of lunar material. Used by shadow government operatives to track smuggled moon artifacts.",
+        "legal_status": "Classified",
+        "black_market_value": "Very High",
+        "notable_features": "Handheld device resembling a Geiger counter with blue illumination",
+        "risks": "Extended exposure to resonance fields causes neurological symptoms"
+      }
+    ],
+    "weaponry": [
+      {
+        "name": "Hydro-Compression Pistol",
+        "classification": "Specialized Weapon",
+        "availability": "Law Enforcement & Military",
+        "description": "Weapon that fires compressed water jets capable of incapacitating targets without lethal damage. Standard issue for Harbor Authority officers.",
+        "legal_status": "Restricted",
+        "black_market_value": "Medium",
+        "notable_features": "Doesn't require conventional ammunition, can draw water from surroundings",
+        "risks": "Higher settings can cause severe internal injuries"
+      },
+      {
+        "name": "Lunar Flare",
+        "classification": "Dual-Use Technology",
+        "availability": "Emergency Services",
+        "description": "Signal device that burns with intense blue-white flame even underwater. Used for emergency signaling but repurposed by criminals as underwater incendiary device.",
+        "legal_status": "Regulated",
+        "black_market_value": "Low",
+        "notable_features": "Burns for up to 10 minutes with light visible for several miles",
+        "risks": "Chemical composition is toxic if container is breached"
+      },
+      {
+        "name": "Gravitational Disruptor",
+        "classification": "Experimental Weapon",
+        "availability": "Prototype Only",
+        "description": "Device that creates localized gravity fluctuations, causing disorientation and physical incapacitation. Rumored to be used by Luna Corp security for covert operations.",
+        "legal_status": "Prohibited",
+        "black_market_value": "Extremely High",
+        "notable_features": "Produces sensation of weightlessness followed by crushing pressure in affected area",
+        "risks": "Uncontrolled use can cause structural damage to buildings and vehicles"
+      }
+    ]
+  }
+}

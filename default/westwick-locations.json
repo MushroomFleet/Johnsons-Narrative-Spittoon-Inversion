@@ -1,0 +1,190 @@
+{
+  "districts": {
+    "the_heights": {
+      "name": "The Heights",
+      "elevation": "45-60 feet above sea level",
+      "water_level": "None",
+      "description": "Wealthy district built on the highest ground, featuring Victorian and Gothic-revival mansions, private gardens, and elite institutions. Completely dry with views overlooking the fog-shrouded city below.",
+      "notable_locations": [
+        {
+          "name": "Westwick City Hall",
+          "type": "government",
+          "description": "Imposing Gothic structure with clocktower, houses the surface government and bureaucracy"
+        },
+        {
+          "name": "Luna Corp Headquarters",
+          "type": "corporate",
+          "description": "Modern glass and steel building with art deco elements, topped with a silver dome resembling the moon"
+        },
+        {
+          "name": "The Lunarium Club",
+          "type": "social",
+          "description": "Exclusive social club for city elites, filled with lunar memorabilia and space race artifacts"
+        },
+        {
+          "name": "St. Augustine's Cathedral",
+          "type": "religious",
+          "description": "Neo-Gothic cathedral with flying buttresses and stained glass depicting both religious and lunar imagery"
+        }
+      ],
+      "social_elements": "Old money families, corporate executives, government officials, and aerospace engineers",
+      "crime_level": "Low (visible), High (white-collar)",
+      "noir_elements": "Hidden corruption, blackmail, secret affairs, and corporate espionage"
+    },
+    "the_stilts": {
+      "name": "The Stilts",
+      "elevation": "15-30 feet above sea level",
+      "water_level": "None (built above water on pylons)",
+      "description": "Newer district constructed after the flood on elevated platforms and stilts above the water. A mix of retrofuturistic design and practical engineering.",
+      "notable_locations": [
+        {
+          "name": "Elevated Transit Hub",
+          "type": "transportation",
+          "description": "Central node connecting tram lines that run between buildings above the flood waters"
+        },
+        {
+          "name": "Blue Moon Research Facility",
+          "type": "scientific",
+          "description": "Luna Corp's visible research division, working on consumer applications of space technology"
+        },
+        {
+          "name": "Skyway Apartments",
+          "type": "residential",
+          "description": "Modern housing complex connected by bridges and elevated walkways"
+        },
+        {
+          "name": "The Observatory Lounge",
+          "type": "entertainment",
+          "description": "Upscale jazz club with glass walls and ceiling for lunar observation, popular with scientists and engineers"
+        }
+      ],
+      "social_elements": "Scientists, engineers, nouveau riche entrepreneurs, and forward-thinking professionals",
+      "crime_level": "Low-Medium",
+      "noir_elements": "Technological espionage, mysterious disappearances, and experimental technology gone wrong"
+    },
+    "harbor_town": {
+      "name": "Harbor Town",
+      "elevation": "5-15 feet above sea level",
+      "water_level": "Partial (docks and piers)",
+      "description": "Working docks and warehouse district, mixture of dry docks and flooded berths. Busy with legitimate shipping and clandestine smuggling operations.",
+      "notable_locations": [
+        {
+          "name": "Westwick Harbor Authority",
+          "type": "government",
+          "description": "Administrative building controlling shipping, customs, and water traffic"
+        },
+        {
+          "name": "The Rusty Anchor",
+          "type": "social",
+          "description": "Sailors' bar with reputation for rough clientele and valuable information exchange"
+        },
+        {
+          "name": "Warehouse 13",
+          "type": "storage",
+          "description": "Seemingly ordinary warehouse rumored to store recovered lunar artifacts"
+        },
+        {
+          "name": "Fog Point Lighthouse",
+          "type": "infrastructure",
+          "description": "Historic lighthouse converted to use experimental lunar-powered beacon technology"
+        }
+      ],
+      "social_elements": "Dock workers, sailors, harbor police, smugglers, and customs officials",
+      "crime_level": "High",
+      "noir_elements": "Smuggling operations, informants, dock-side murders, and mysterious cargo"
+    },
+    "the_shallows": {
+      "name": "The Shallows",
+      "elevation": "0-10 feet above sea level",
+      "water_level": "1-3 feet permanent flooding",
+      "description": "Working-class residential area with permanent shallow flooding. Buildings have first floors abandoned or converted for water access, daily life occurs on second floors and above.",
+      "notable_locations": [
+        {
+          "name": "Westwick Central Market",
+          "type": "commercial",
+          "description": "Elevated marketplace with boats docking directly at stalls"
+        },
+        {
+          "name": "St. Mary's of the Waters",
+          "type": "religious",
+          "description": "Church with entrance now at second-floor level, lower level converted to boat dock"
+        },
+        {
+          "name": "The Floating Record",
+          "type": "media",
+          "description": "Newspaper office and printing press, known for investigating flood-related stories"
+        },
+        {
+          "name": "Canal Street Police Precinct",
+          "type": "government",
+          "description": "Modified police station with boat docks and raised entrances"
+        }
+      ],
+      "social_elements": "Factory workers, shopkeepers, police officers, reporters, and boat operators",
+      "crime_level": "Medium",
+      "noir_elements": "Street-level corruption, protection rackets, and neighborhood tensions"
+    },
+    "drowntown": {
+      "name": "Drowntown",
+      "elevation": "-5-5 feet above sea level",
+      "water_level": "5-10 feet permanent flooding",
+      "description": "Former financial district now partially submerged. Impressive stone buildings with only upper floors accessible. Lower floors have become underwater passages and hideouts.",
+      "notable_locations": [
+        {
+          "name": "The Exchange",
+          "type": "commercial",
+          "description": "Former stock exchange with trading floor now underwater, upper levels converted to offices"
+        },
+        {
+          "name": "Westwick National Bank",
+          "type": "financial",
+          "description": "Grand bank building with submerged vault rumored to contain unclaimed valuables"
+        },
+        {
+          "name": "Hotel Neptune",
+          "type": "accommodation",
+          "description": "Luxury hotel adapted to flooding with boat valets and water-level entrances"
+        },
+        {
+          "name": "The Submerged Archive",
+          "type": "government",
+          "description": "City records office with many documents lost to flooding, controlled access to sensitive information"
+        }
+      ],
+      "social_elements": "Financial workers, lawyers, black market dealers, and wealthy thrill-seekers",
+      "crime_level": "High",
+      "noir_elements": "Hidden underwater passages, forgotten evidence, and flooded crime scenes"
+    },
+    "the_depths": {
+      "name": "The Depths",
+      "elevation": "-15-0 feet above sea level",
+      "water_level": "15-25 feet permanent flooding",
+      "description": "Completely flooded former neighborhood accessible only by boat or diving. Only rooftops and upper floors visible above water. Home to the most desperate and those hiding from society.",
+      "notable_locations": [
+        {
+          "name": "The Rooftop Colony",
+          "type": "residential",
+          "description": "Makeshift settlement constructed on connected rooftops above water level"
+        },
+        {
+          "name": "Cathedral of the Deep",
+          "type": "religious",
+          "description": "Submerged church with only spire above water, rumored meeting place for 'The Submersibles' resistance"
+        },
+        {
+          "name": "The Undertow",
+          "type": "social",
+          "description": "Bar accessible only by boat, built into the upper floor of a submerged apartment building"
+        },
+        {
+          "name": "Salvage Central",
+          "type": "commercial",
+          "description": "Trading post for items recovered from flooded buildings, no questions asked about origin"
+        }
+      ],
+      "social_elements": "Outcasts, scavengers, fugitives, and resistance members",
+      "crime_level": "Very High",
+      "noir_elements": "Perfect hiding places, forgotten evidence, bodies discovered in submerged buildings"
+    }
+  }
+}
