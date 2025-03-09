@@ -1,0 +1,37 @@
+We will create a sequence of video prompts by reading and combining content from the narrative and screenplay, preserving chronological order and adding sufficient padding for adequate screen time.
+
+1. Read the following source files:
+   - @/Johnsons-Narrative-Spittoon-Inversion/007b/pages/page0.txt  (original narrative)
+   - @/Johnsons-Narrative-Spittoon-Inversion/007b/screenplay/screenplay0.txt  (screenplay adaptation)
+   - @/Johnsons-Narrative-Spittoon-Inversion/Jovian/Jovian-project-instructions.txt  (character definitions and consistency rules)
+
+2. Read the @/Johnsons-Narrative-Spittoon-Inversion/hyvid/hyvid_mapping.json  file which defines:
+   - The structural elements required for the video prompt
+   - How to combine and transform content from the source files
+   - Formatting rules for each element (scene descriptions, camera movements, transitions, audio cues, etc.)
+   - Required metadata tagging conventions
+
+3. Identify distinct scenes from the narrative and screenplay in strict chronological order
+
+4. For each scene, create a dedicated video prompt that:
+   - Preserves the narrative essence from the original text
+   - Incorporates scene structure from the screenplay
+   - References character descriptions from project.json to maintain consistency
+   - Follows the proper video prompt format defined in hyvid-mapping.json
+
+5. For each "story" based scene prompt, create at least 4 context-aware "padding" prompts that:
+   - Focus on key locations mentioned in the narrative
+   - Highlight visually striking elements from the story
+   - Provide environmental context (weather, time of day, atmosphere)
+   - Show character reactions, movements, or environment details
+   - Can be placed before, after, or interspersed with the main scene prompts
+   - Maintain the chronological flow of the narrative
+
+6. Ensure character consistency across all prompts by:
+   - Using consistent descriptions and traits defined in project.json
+   - Maintaining continuity in clothing, appearance, and mannerisms
+   - Preserving character relationships and dynamics
+
+7. Append all generated prompts in strict chronological order as new lines to a single text file named "hyvid_scene00.txt" in the same directory, with each padding prompt appropriately placed to maintain narrative flow
+
+8. Increment the page numbers and repeat the process for each set of files (01, 02, etc.) until all pages have been converted, creating corresponding "hyvid_scene01.txt", "hyvid_scene02.txt", etc.
