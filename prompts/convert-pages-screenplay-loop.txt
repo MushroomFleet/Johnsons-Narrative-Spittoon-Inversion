@@ -1,0 +1,13 @@
+We will create a screenplay by reading the page, transforming the narrative text into screenplay format, and saving it as a new file.
+
+1. Read @/Johnsons-Narrative-Spittoon-Inversion/007b/page30.txt
+2. Convert the narrative text into proper screenplay format including:
+   - Scene headings (INT./EXT., location, time of day)
+   - Action descriptions (what's happening visually)
+   - Character names in ALL CAPS before dialogue
+   - Dialogue properly formatted and indented
+   - Parentheticals for delivery instructions when needed
+   - Transitions where appropriate
+3. Save the screenplay version to a new text file, using "screenplay" as a filename prefix, with a matching number to the page we are reading, saved next to the file we are reading.
+4. Decrement the text filename by one to find the previous page, repeat the task for each page, one at a time.
+5. The task is complete when you decrementally reach "page00.txt" and finish saving "screenplay00.txt"
