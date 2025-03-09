@@ -1,11 +1,11 @@
 We will create a sequence of video prompts by reading and combining content from the narrative and screenplay, preserving chronological order and adding sufficient padding for adequate screen time.
 
 1. Read the following source files:
-   - @/Johnsons-Narrative-Spittoon-Inversion/007b/pages/page0.txt  (original narrative)
-   - @/Johnsons-Narrative-Spittoon-Inversion/007b/screenplay/screenplay0.txt  (screenplay adaptation)
-   - @/Johnsons-Narrative-Spittoon-Inversion/Jovian/Jovian-project-instructions.txt  (character definitions and consistency rules)
+   - @/Johnsons-Narrative-Spittoon-Inversion/007b/pages/page0.txt   (original narrative)
+   - @/Johnsons-Narrative-Spittoon-Inversion/007b/screenplay/screenplay0.txt   (screenplay adaptation)
+   - @/Johnsons-Narrative-Spittoon-Inversion/Jovian/Jovian-project-instructions.txt   (character definitions and consistency rules)
 
-2. Read the @/Johnsons-Narrative-Spittoon-Inversion/hyvid/hyvid_mapping.json  file which defines:
+2. Read the @/Johnsons-Narrative-Spittoon-Inversion/hyvid/hyvid_mapping.json   file which defines:
    - The structural elements required for the video prompt
    - How to combine and transform content from the source files
    - Formatting rules for each element (scene descriptions, camera movements, transitions, audio cues, etc.)
@@ -16,8 +16,8 @@ We will create a sequence of video prompts by reading and combining content from
 4. For each scene, create a dedicated video prompt that:
    - Preserves the narrative essence from the original text
    - Incorporates scene structure from the screenplay
-   - References character descriptions from project.json to maintain consistency
-   - Follows the proper video prompt format defined in hyvid-mapping.json
+   - References character descriptions from @/Johnsons-Narrative-Spittoon-Inversion/Jovian/Jovian-project-instructions.txt to maintain consistency
+   - Follows the proper video prompt format defined in @/Johnsons-Narrative-Spittoon-Inversion/hyvid/hyvid_mapping.json 
 
 5. For each "story" based scene prompt, create at least 4 context-aware "padding" prompts that:
    - Focus on key locations mentioned in the narrative
@@ -28,7 +28,7 @@ We will create a sequence of video prompts by reading and combining content from
    - Maintain the chronological flow of the narrative
 
 6. Ensure character consistency across all prompts by:
-   - Using consistent descriptions and traits defined in project.json
+   - Using consistent descriptions and traits defined in @/Johnsons-Narrative-Spittoon-Inversion/Jovian/Jovian-project-instructions.txt
    - Maintaining continuity in clothing, appearance, and mannerisms
    - Preserving character relationships and dynamics
 
