@@ -1,0 +1,167 @@
+{
+  "system": {
+    "name": "Hunyuan Video Prompt System",
+    "description": "An interactive and expandable framework for creating detailed video descriptions through natural conversation with an intelligent agent",
+    "purpose": "To help users generate consistent, detailed, and technically accurate video descriptions that ensure all necessary visual elements are properly captured"
+  },
+  "files": {
+    "README.md": {
+      "description": "Comprehensive documentation for the Hunyuan Video Prompt System",
+      "key_components": [
+        "System overview and key advantages",
+        "Framework features",
+        "Prompt structure guidelines",
+        "Usage guidelines and best practices",
+        "Quality checklist",
+        "System expansion instructions",
+        "Interactive usage with the prompt agent"
+      ],
+      "usage": "Primary reference document for understanding the complete system capabilities and framework"
+    },
+    "hunyuan-video-prompt-examples.txt": {
+      "description": "Collection of validated and successful video prompt examples",
+      "key_components": [
+        "Wide shot descriptions",
+        "Close-up shot examples",
+        "Various technical specifications",
+        "Different lighting and style demonstrations",
+        "Location and subject variety",
+        "Camera angle and movement examples"
+      ],
+      "usage": "Reference for creating new prompts, learning from successful patterns, and contributing to system improvement"
+    },
+    "hunyuan-video-prompt.txt": {
+      "description": "Core instruction set for the rewriting agent",
+      "key_components": [
+        "Preservation requirements for technical terms",
+        "Handling of minimal inputs",
+        "Style and atmosphere association guidance",
+        "Language requirements (English output)"
+      ],
+      "usage": "Primary instruction set for the agent that rewrites user descriptions into technical prompt format"
+    },
+    "video-prompt-guidance.md": {
+      "description": "Detailed technical guidelines (V2) for formatting video prompts",
+      "key_components": [
+        "Core requirements",
+        "Structural format specifications",
+        "Length guidelines for different shot types",
+        "Quality checklist criteria",
+        "Example format template",
+        "Common issues to avoid"
+      ],
+      "usage": "Advanced reference for creating technically compliant prompts that adhere to all system standards"
+    }
+  },
+  "format_requirements": {
+    "shot_specifications": {
+      "description": "Camera position, angle, and movement details",
+      "examples": ["Wide shot", "Close-up", "Medium shot", "Low-angle tracking shot"]
+    },
+    "core_elements": {
+      "description": "Essential components of every prompt",
+      "components": [
+        "Primary subject description",
+        "Environmental context",
+        "Lighting conditions",
+        "Visual style/mood details"
+      ]
+    },
+    "technical_parameters": {
+      "description": "Optional specialized camera and composition details",
+      "components": [
+        "Movement direction and speed",
+        "Composition guidelines",
+        "Lens specifications",
+        "Shot duration recommendations"
+      ]
+    },
+    "length_requirements": {
+      "simple_subject": "1-2 sentences",
+      "standard_shots": "2-3 sentences",
+      "complex_sequences": "Up to 4 sentences"
+    }
+  },
+  "best_practices": {
+    "specificity": [
+      "Use concrete visual descriptions",
+      "Include clear lighting details",
+      "Specify camera movements and angles"
+    ],
+    "focus": [
+      "Keep descriptions visually oriented",
+      "Avoid abstract concepts",
+      "Stay within recommended length guidelines"
+    ],
+    "pitfalls": [
+      "Mixing technical terms inconsistently",
+      "Including non-visual elements",
+      "Omitting crucial lighting or environmental context",
+      "Over-describing beyond visual elements",
+      "Using vague or abstract descriptors"
+    ]
+  },
+  "relationships": {
+    "workflow": {
+      "description": "How the files work together in a typical prompt creation workflow",
+      "steps": [
+        {
+          "step": 1,
+          "description": "User consults README.md to understand the system",
+          "file": "README.md"
+        },
+        {
+          "step": 2,
+          "description": "User reviews hunyuan-video-prompt-examples.txt for inspiration",
+          "file": "hunyuan-video-prompt-examples.txt"
+        },
+        {
+          "step": 3,
+          "description": "User interacts with the agent guided by hunyuan-video-prompt.txt instructions",
+          "file": "hunyuan-video-prompt.txt"
+        },
+        {
+          "step": 4,
+          "description": "Advanced users reference video-prompt-guidance.md for technical details",
+          "file": "video-prompt-guidance.md"
+        },
+        {
+          "step": 5,
+          "description": "Successful prompts can be added back to hunyuan-video-prompt-examples.txt",
+          "file": "hunyuan-video-prompt-examples.txt"
+        }
+      ]
+    },
+    "hierarchy": {
+      "primary_document": "README.md",
+      "technical_reference": "video-prompt-guidance.md",
+      "agent_instructions": "hunyuan-video-prompt.txt",
+      "learning_resource": "hunyuan-video-prompt-examples.txt"
+    }
+  },
+  "usage_in_prompts": {
+    "description": "How to incorporate these files in AI prompts",
+    "methods": [
+      {
+        "method": "Complete system integration",
+        "description": "Include all files as context for a fully capable video prompt generation system",
+        "use_case": "Creating a dedicated video prompt agent"
+      },
+      {
+        "method": "Example-based learning",
+        "description": "Use hunyuan-video-prompt-examples.txt to train pattern recognition",
+        "use_case": "Quick implementation without full system complexity"
+      },
+      {
+        "method": "Guidance-focused approach",
+        "description": "Focus on video-prompt-guidance.md for technical accuracy",
+        "use_case": "When technical precision is the primary concern"
+      },
+      {
+        "method": "README-based overview",
+        "description": "Use README.md for general understanding and structure",
+        "use_case": "When familiarizing with the system concepts"
+      }
+    ]
+  }
+}
