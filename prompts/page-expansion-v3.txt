@@ -1,9 +1,9 @@
-We will expand '010/story/page7.txt' (see below for file content) by adding more information which describes the environment in greater detail, while following the 'default/default-project-instructions.txt' (see below for file content)
+We will expand @/010/story/page0.txt (see below for file content) by adding more information which describes the environment in greater detail, while following the @/default/default-project-instructions.txt  (see below for file content)
 
 Speech will be preserved
 No story changes will be made
-Read '010/story/page7.txt' (see below for file content)
-Expand the text by 200% by adding environmental details, weather, time of day, illumination or remarkable sights, while avoiding repetition. Focus on an insignificant object in the page and describe it at with incredible level of fidelity. Add visual details describing the scenes and locations with contextual awareness while adhering to 'default/default-project-instructions.txt' (see below for file content)
+Read @/010/story/page0.txt (see below for file content)
+Expand the text by 200% by adding environmental details, weather, time of day, illumination or remarkable sights, while avoiding repetition. Focus on an insignificant object in the page and describe it at with incredible level of fidelity. Add visual details describing the scenes and locations with contextual awareness while adhering to @/default/default-project-instructions.txt (see below for file content)
 Preserve all original text including the beginning and ending of the page to maintain continuity with surrounding pages
 You may expand and embellish the original start and end sections, but must preserve the original text within your expansion
 Select and focus on one insignificant object in the narrative and provide an exceptionally detailed description of its physical properties, history, and relationship to the environment
