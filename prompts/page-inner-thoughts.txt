@@ -1,0 +1,12 @@
+We will enhance @/[story_path]/page[number].txt by adding character inner thoughts while following the @/default/default-project-instructions.txt
+All original text and speech will be preserved
+No story changes will be made beyond adding inner thoughts
+Read @/[story_path]/page[number].txt and @/characters/[character_name].txt for each character present
+Cross-reference the full story to ensure continuity and consistency of character development
+Add inner thoughts that reveal character motivations, fears, desires, and reactions to events
+All inner thoughts must be wrapped in "*" asterisks for easy identification
+Inner thoughts should align with the established character traits, backstory, and arc
+Preserve all original text including the beginning and ending of the page
+Maintain the original narrative voice while adding depth through character introspection
+Add inner thoughts at natural moments, such as decision points, emotional reactions, or pivotal events
+Ensure inner thoughts enrich the narrative without disrupting pacing or dialogue flow
