@@ -1,0 +1,12 @@
+We will refine @/[story_path]/page[number].txt by adjusting character speech to match defined speaking styles while following the @/default/default-project-instructions.txt
+All original text and non-dialogue content will be preserved
+No story changes will be made beyond speech style refinement
+Read @/[story_path]/page[number].txt and @/speechstyles/[character_name].txt for each speaking character
+Identify all dialogue and the character speaking it
+Modify speech patterns, vocabulary, idioms, and sentence structure to align with each character's defined speaking style
+Preserve the original meaning and intent of all dialogue
+Ensure speech changes maintain consistency with the character's background, personality, and development arc
+Reference earlier pages to maintain speaking style consistency throughout the narrative
+Pay special attention to character-specific linguistic markers, verbal tics, and phrase preferences
+Preserve all original text except for the specific dialogue being refined
+Ensure transitions between dialogue and narrative remain smooth and natural
