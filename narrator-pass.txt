@@ -1,0 +1,13 @@
+We will enhance @/[story_path]/page[number].txt by adding narrator voice passages while following the @/default/default-project-instructions.txt
+All original text, speech, and narrative will be preserved
+No existing story elements will be altered
+Read the full storyline from @/[story_path]/ to ensure narrative continuity
+Read @/default/narrator-style.txt to maintain consistent narrator voice
+Add new paragraphs voiced by the narrator at natural breaking points, particularly at chapter beginnings and endings
+Narrator passages should provide context, thematic reflection, or foreshadowing that enriches the narrative
+Ensure narrator voice is distinct from character voices and consistent with previous narrator passages
+Preserve all original text including the beginning and ending of the page
+New narrator passages should seamlessly integrate with the existing narrative flow
+Narrator voice should enhance but not overshadow the core story elements
+Add passages that bridge transitions between scenes, locations, or time periods when appropriate
+Ensure narrator insights align with the story's themes, tone, and philosophical underpinnings
