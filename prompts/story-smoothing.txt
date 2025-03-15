@@ -1,0 +1,13 @@
+We will enhance the @/STORY/ by smoothing the prose in overly technical points to improve the flow
+All essential story elements and dialogue will be preserved
+No story changes will be made beyond improving language variety and flow
+Read @/STORY/page0.txt to identify repetitive words, phrases, and structures
+Cross-reference the @/STORY/ to ensure continuity and consistency of voice and style
+Replace repetitive details with varied alternatives, metaphors, and more precise language
+All repetitive words must be substituted with synonyms or alternative phrasing
+Repetitive sentence structures should be varied to improve rhythm and readability
+Preserve all essential story elements including plot points and character development
+Maintain the original narrative voice while adding depth through linguistic variety
+Focus on natural language flow, reducing unnecessary repetition of words and phrases
+Ensure language enhancements enrich the narrative without disrupting pacing or dialogue
+Use precise and evocative language to replace generic or repetitive descriptions
