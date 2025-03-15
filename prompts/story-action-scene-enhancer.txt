@@ -1,0 +1,68 @@
+We will enhance the @/STORY/ by enriching action scenes while following the lore define in that story
+All original text, speech, and narrative will be preserved
+No existing story elements will be altered
+Read the full storyline to ensure narrative continuity
+Where applicable maintain consistent action scene enhancement
+We will process one Chapter at a time, writing a new file using the chapter name
+
+Identify action scenes within the text (combat, chases, confrontations, physical conflicts, intense athletic performances, supernatural/magical battles)
+If no action scene is detected, make no changes to the text
+For identified action scenes, add dynamic enhancements that:
+
+- Manipulate perceived time:
+  * Slow down crucial moments to expand milliseconds into detailed passages
+  * Accelerate mundane movements to maintain narrative momentum
+  * Create contrast between hyperaware, time-dilated states and rushed, chaotic sequences
+  * Use sentence length to control pacing (short, choppy sentences for intensity; longer for slow-motion)
+
+- Intensify sensory details:
+  * Auditory: heartbeats, breathing, weapon sounds, environmental acoustics, ringing ears
+  * Tactile: impact forces, pain specificities, texture of weapons/objects, temperature
+  * Visual: focus shifts between micro-details and wider awareness, lighting effects, color intensity
+  * Olfactory/Gustatory: gunpowder, blood, sweat, dust, metallic tastes, adrenaline flavors
+  * Proprioception: balance shifts, muscle tension, spatial awareness, gravitational pulls
+
+- Enhance combat choreography and physics:
+  * Track positional relationships between combatants with spatial clarity
+  * Detail specific fighting techniques, weapon handling, and tactical decisions
+  * Emphasize cause-effect chains of action/reaction with physical authenticity
+  * Incorporate momentum, weight, and force in movement descriptions
+  * Balance technical accuracy with readability and excitement
+
+- Heighten physiological and psychological responses:
+  * Internal bodily reactions: adrenaline surges, pain signals, muscle fatigue, breath control
+  * Instinctive versus calculated decision-making in split-second moments
+  * Tunnel vision effects versus peripheral awareness
+  * Time perception distortions from the character's viewpoint
+  * Emotional states intensifying or interfering with physical performance
+
+Preserve all original text including the beginning and ending of the page
+New action details should seamlessly integrate with the existing narrative flow
+Enhancement should maintain the established tone and voice of the story
+Balance detail with pacing:
+- Create rhythmic alternation between explosive action and momentary stillness
+- Use paragraph structure to control tempo (short paragraphs accelerate; longer ones decelerate)
+- Load crucial moments with detail while summarizing transitional movements
+- Vary information density based on the significance of the action beat
+- Maintain forward momentum while expanding pivotal instances
+
+Ensure authenticity and consistency:
+- Align added descriptions with characters' established capabilities and limitations
+- Respect the story's internal physics, magic systems, and technological frameworks
+- Maintain character voice even during intense action
+- Consider character expertise level when describing technique and awareness
+- Reflect character-specific fighting styles, habits, and physical tendencies
+
+Leverage environment as an active element:
+- Transform settings into dynamic participants rather than static backdrops
+- Describe how terrain, objects, weather, and lighting conditions affect the action
+- Create environmental obstacles, advantages, and hazards that shape tactics
+- Use setting elements for improvisational weapon opportunities
+- Enhance immersion through destruction, alteration or interaction with surroundings
+
+Focus on visceral impact:
+- Prioritize concrete, sensory-rich language over abstract conceptualization
+- Balance external observations with internal experiences
+- Capture the messy, chaotic nature of real combat while maintaining readability
+- Emphasize physical consequences (injuries, exhaustion, damage to surroundings)
+- Heighten stakes by clarifying immediate dangers and potential outcomes
