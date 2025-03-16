@@ -1,0 +1,29 @@
+We will analyze @/STORY/page0_enhanced.txt  to identify and optionally fix repetitive language while following the @/default/default-project-instructions.txt 
+All original text structure and meaning will be preserved
+No story changes will be made beyond language refinement
+
+SEARCH MODE:
+Read @/STORY/page0_enhanced.txt and cross-reference with full story @/STORY/ 
+Identify repeated words, phrases, metaphors, and sentence structures
+Flag repetitions with frequency counts and context
+Categorize repetitions as "intentional" (for effect) or "unintentional" (candidates for revision)
+Create a report of repetition patterns for review
+
+FIX MODE:
+Read repetition report and @/STORY/page0_enhanced.txt
+Substitute repetitive language with contextually appropriate alternatives
+Maintain the original meaning, tone, and narrative voice
+Preserve intentional repetitions that serve literary purposes
+Ensure substitutions align with the character voice or narrator style
+Reference character profiles and speech styles to ensure replacements match established patterns
+Prioritize natural language flow over forced variation
+Preserve all original text structure while refining language
+Create before/after comparisons to highlight improvements
+Keep track of repetition by updating a report across pages and use this to prioritise edits.
+Once we are finished, we can repeat the task with the remaining pages:
+page1_enhanced.txt 
+page2_enhanced.txt 
+page3_enhanced.txt 
+page4_enhanced.txt 
+page5_enhanced.txt 
+the task is complete when we have allowed the smoothing agent to process each page.
