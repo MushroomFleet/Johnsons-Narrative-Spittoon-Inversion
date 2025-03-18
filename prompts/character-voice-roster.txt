@@ -1,0 +1,3 @@
+please read @/scripts/ each of the 6 scripts one at a time, updating a single report named "Cast-Voices.md", stating the name, gender, age and any other information related to the characters voice, as this will be used for guidance to design synthetic voices.
+are there any minor characters or extras?
+if so these should be added to the end of the report, with basic voice type info
