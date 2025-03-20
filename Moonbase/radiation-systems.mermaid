@@ -1,0 +1,44 @@
+flowchart TD
+    JUP[JUPITER RADIATION] --> SHIELD[STATION SHIELDING]
+    
+    SHIELD --> FAIL[Shield Failure]
+    SHIELD --> SUCCESS[Effective Shielding]
+    
+    FAIL --> EXPOSURE[Human Exposure]
+    EXPOSURE --> MONITORING[Radiation Monitoring]
+    
+    MONITORING --> BADGE[Personal Badges]
+    MONITORING --> STATION[Station Sensors]
+    MONITORING --> MEDICAL[Medical Scans]
+    
+    BADGE --> LEVELS[Exposure Levels]
+    STATION --> LEVELS
+    MEDICAL --> LEVELS
+    
+    LEVELS --> L1[0-10 Jovs: Safe]
+    LEVELS --> L2[10-20 Jovs: Cautionary]
+    LEVELS --> L3[20-50 Jovs: Hazardous]
+    LEVELS --> L4[50-80 Jovs: Critical]
+    LEVELS --> L5[80+ Jovs: Terminal]
+    
+    L1 --> TREATMENT[TREATMENT OPTIONS]
+    L2 --> TREATMENT
+    L3 --> TREATMENT
+    L4 --> TREATMENT
+    L5 --> TREATMENT
+    
+    TREATMENT --> T1[Official: Evacuation]
+    TREATMENT --> T2[Black Market: Rad-Flush]
+    TREATMENT --> T3[Experimental: Bacterial Infusion]
+    
+    SUCCESS --> SHIELDTECH[Shield Technology]
+    SHIELDTECH --> ST1[E. jovianus Compounds]
+    SHIELDTECH --> ST2[Physical Barriers]
+    SHIELDTECH --> ST3[Magnetic Fields]
+    
+    ST1 --> PRODUCTION[Shield Production]
+    PRODUCTION --> P1[Bacteria Cultivation]
+    P1 --> P2[Compound Extraction]
+    P2 --> P3[Stabilization]
+    P3 --> P4[Application]
+    P4 --> P5[Renewal Cycle]

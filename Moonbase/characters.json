@@ -1,0 +1,269 @@
+{
+  "characters": [
+    {
+      "name": "Max Kovac",
+      "basics": {
+        "age": 42,
+        "gender": "Male",
+        "occupation": "Freelance Mechanic",
+        "socialClass": "Rat (formerly Technician)",
+        "radiationLevel": 78
+      },
+      "appearance": {
+        "physique": "Wiry but strong, deceptively resilient",
+        "distinguishingFeatures": "Radiation burns along neck and left forearm",
+        "clothing": "Modified jumpsuit with excessive pockets and tool attachments",
+        "movement": "Efficient, often fidgety when not occupied with repairs"
+      },
+      "psychology": {
+        "primaryMotivation": "Survival and atonement for past mistakes",
+        "fears": ["Dying before fixing his greatest mistake", "Becoming completely dependent on others", "The void of space"],
+        "desires": ["Genuine human connection", "Forgiveness he won't allow himself", "One last meaningful act"],
+        "contradictions": ["Professes selfishness while consistently helping others", "Claims to embrace death while fighting desperately to survive", "Despises authority but maintains personal rigid code"]
+      },
+      "background": {
+        "origin": "Mars Colony Engineering Corps",
+        "definingEvents": [
+          "Accident that killed four crew members due to his shortcut",
+          "Refused evacuation to avoid Earth warrant",
+          "First encounter with Franciska that left him indebted to her organization"
+        ],
+        "specialSkills": ["Intuitive understanding of mechanical systems", "Improvised repairs with minimal resources", "Radiation survival techniques"],
+        "darkSecrets": ["Deliberately sabotaged executive escape pod", "Maintains hidden communication with Mars resistance", "Has developed early-stage symbiosis with E. jovianus"]
+      },
+      "relationships": {
+        "valdora": "Suspicious but reluctantly respectful of their knowledge",
+        "gilbert": "Contemptuous of his privileged position and clinical detachment",
+        "guiseppe": "Genuine friendship based on mutual respect for competence",
+        "franciska": "Complex debt relationship with underlying mutual usefulness"
+      },
+      "speech": {
+        "pattern": "Fragmented technical jargon mixed with creative profanity",
+        "catchphrases": ["Look, it's fucking simple...", "System's gonna fail, just a matter of when", "Same shit, different vacuum"],
+        "quirks": "Talks to machines, mutters diagnostics under stress"
+      },
+      "narrative": {
+        "archetype": "Reluctant Hero with Fatal Flaw",
+        "growthArc": "From self-destructive guilt to purposeful sacrifice",
+        "function": "Ground-level perspective on station life and systems"
+      },
+      "statusTrackers": {
+        "radiationProgression": "Terminal, managing symptoms with black market treatments",
+        "sobriety": "Fluctuating, uses alcohol to manage pain but stays sharp for critical work",
+        "stationRespect": "High among Rats, grudging acknowledgment from Technicians, invisible to Brass"
+      }
+    },
+    {
+      "name": "Gilbert Chase",
+      "basics": {
+        "age": 33,
+        "gender": "Male",
+        "occupation": "Xenobiology Researcher (Corporate Spy)",
+        "socialClass": "Technician (with Brass access)",
+        "radiationLevel": 12
+      },
+      "appearance": {
+        "physique": "Slight build, delicate features, meticulous grooming",
+        "distinguishingFeatures": "Unnaturally clean appearance, manicured nails",
+        "clothing": "Pristine science division uniform, always regulation",
+        "movement": "Precise, economical, birdlike head movements"
+      },
+      "psychology": {
+        "primaryMotivation": "Self-preservation disguised as scientific curiosity",
+        "fears": ["Physical contamination", "Discovery of true purpose", "Being trapped on station during catastrophe"],
+        "desires": ["Recognition from corporate superiors", "Clean escape before disaster", "Order in chaos"],
+        "contradictions": ["Clinically detached yet deeply fearful", "Values human life abstractly but not individually", "Brilliant in field but emotionally stunted"]
+      },
+      "background": {
+        "origin": "Earth elite academic institutions",
+        "definingEvents": [
+          "Selected for corporate espionage program during university",
+          "First xenobiology breakthrough earning scientific credibility",
+          "Assignment to evaluate Io station for abandonment"
+        ],
+        "specialSkills": ["Bacterial analysis and modification", "Data encryption", "Systematic observation"],
+        "darkSecrets": ["Reports recommend station abandonment without evacuation", "Has developed early theoretical countermeasure to Great Attractor", "Maintains private escape plan"]
+      },
+      "relationships": {
+        "max": "Views as useful but expendable resource with surprising insights",
+        "valdora": "Scientific curiosity mixed with inexplicable unease",
+        "guiseppe": "Minimal interaction, vague intimidation",
+        "franciska": "Active avoidance, genuine fear"
+      },
+      "speech": {
+        "pattern": "Academic precision with multiple qualifiers and caveats",
+        "catchphrases": ["To be precise...", "The data suggests...", "Pending further analysis..."],
+        "quirks": "Clears throat before important statements, lists options by statistical probability"
+      },
+      "narrative": {
+        "archetype": "Reluctant Ally with Hidden Agenda",
+        "growthArc": "From clinical detachment to moral awakening (or failure)",
+        "function": "Access to critical scientific information and Brass-level intelligence"
+      },
+      "statusTrackers": {
+        "morality": "Beginning to question corporate directives as Great Attractor threat increases",
+        "usefulness": "High value while research facilities functional",
+        "discovery": "Increasing risk as Franciska's people monitor communications"
+      }
+    },
+    {
+      "name": "Valdora",
+      "basics": {
+        "age": "Unknown (appears 35)",
+        "gender": "Androgynous/Fluid",
+        "occupation": "Radiation Engineer (cover identity)",
+        "socialClass": "Technician (observed as)",
+        "radiationLevel": "Immune"
+      },
+      "appearance": {
+        "physique": "Perfect symmetry, copper-toned skin, unusual amber eyes",
+        "distinguishingFeatures": "Circular shifting tattoos on hands, liquid metal clothing accents",
+        "clothing": "Practical attire with unexplainable material properties",
+        "movement": "Unnaturally smooth, economical, occasionally too precise"
+      },
+      "psychology": {
+        "primaryMotivation": "Contain Great Attractor breach between dimensions",
+        "fears": ["Complete dimensional collapse", "Failure of containment mission", "Developing human emotional attachments"],
+        "desires": ["Successful mission completion", "Understanding of human adaptation", "Knowledge transfer between planes"],
+        "contradictions": ["Superior knowledge but limited understanding of human nature", "Emotionally detached yet developing empathy", "Immensely powerful yet requires human assistance"]
+      },
+      "background": {
+        "origin": "Alternate dimensional plane with advanced civilization",
+        "definingEvents": [
+          "Previous successful Great Attractor containment",
+          "Transition to current dimension/reality",
+          "First encounter with human emotional responses"
+        ],
+        "specialSkills": ["Dimensional physics comprehension", "Energy manipulation", "Pattern recognition beyond human capability"],
+        "darkSecrets": ["Must sacrifice specific humans to seal dimensional breach", "Physical form is projection/approximation", "Knows exact timeline of Jupiter collapse"]
+      },
+      "relationships": {
+        "max": "Recognizes as necessary catalyst for mission success",
+        "gilbert": "Values scientific mind but distrusts motives",
+        "guiseppe": "Respects practical wisdom and stability",
+        "franciska": "Acknowledges as power node in human system"
+      },
+      "speech": {
+        "pattern": "Formal, precise, with subtle harmonics and perfect diction",
+        "catchphrases": ["The pattern suggests...", "This distinction is essential, not semantic", "Valdora observes that..."],
+        "quirks": "Never uses contractions, refers to self in third person for physical actions"
+      },
+      "narrative": {
+        "archetype": "Enigmatic Mentor with Hidden Knowledge",
+        "growthArc": "From using humans as tools to valuing them as partners",
+        "function": "Exposition on Great Attractor and dimensional physics"
+      },
+      "statusTrackers": {
+        "humanization": "Gradually increasing emotional comprehension",
+        "energy": "Depleting with extended presence in this dimension",
+        "revelation": "Selective disclosure of true nature and mission"
+      }
+    },
+    {
+      "name": "Guiseppe Reyes",
+      "basics": {
+        "age": 38,
+        "gender": "Male",
+        "occupation": "Cargo Operations Manager",
+        "socialClass": "Respected across all strata",
+        "radiationLevel": 35
+      },
+      "appearance": {
+        "physique": "Massive build, 6'7\" with broad shoulders, meticulously groomed beard",
+        "distinguishingFeatures": "Advanced prosthetic right arm with custom modifications",
+        "clothing": "Heavy-duty work clothes with personal modifications for efficiency",
+        "movement": "Deliberately measured on station, graceful in zero-G environments"
+      },
+      "psychology": {
+        "primaryMotivation": "Maintaining order and protecting those under his care",
+        "fears": ["Station-wide panic", "Failed evacuation causing mass casualties", "Becoming unable to help others"],
+        "desires": ["Return to Earth with those he protects", "Justice for corporate negligence", "Preservation of human dignity in crisis"],
+        "contradictions": ["Calm exterior hiding regulated rage", "Philosophical thinker engaged in physical work", "Respects authority while subverting it"]
+      },
+      "background": {
+        "origin": "Earth-based orbital construction teams",
+        "definingEvents": [
+          "Loss of arm during emergency repair after volcanic event",
+          "Refusal of corporate settlement to stay on Io",
+          "Gradual ascent to unofficial authority position"
+        ],
+        "specialSkills": ["Crisis management", "Zero-G operations", "Logistics optimization", "Physical intimidation when necessary"],
+        "darkSecrets": ["Operating underground evacuation preparation", "Communicates with asteroid belt rebels", "Knows corporate abandonment plans"]
+      },
+      "relationships": {
+        "max": "Friendship based on mutual respect despite Max's self-destructiveness",
+        "gilbert": "Distrust softened by recognition of necessary skills",
+        "valdora": "Cautious alliance with growing recognition of non-human nature",
+        "franciska": "Complicated professional respect with ideological differences"
+      },
+      "speech": {
+        "pattern": "Economical phrases with unexpected literary references",
+        "catchphrases": ["Do me this favor...", "The thing about [subject] is...", "...and that's mathematics"],
+        "quirks": "Recites poetry during crises, uses full names in serious discussions"
+      },
+      "narrative": {
+        "archetype": "The Steady Hand Amid Chaos",
+        "growthArc": "From preserving current system to revolutionary leadership",
+        "function": "Provides stability and physical capability in crisis situations"
+      },
+      "statusTrackers": {
+        "authority": "Increasing as official structures fail",
+        "radiation": "Showing early symptoms but functionality maintained",
+        "network": "Expanding connections throughout station hierarchy"
+      }
+    },
+    {
+      "name": "Franciska Ndiaye",
+      "basics": {
+        "age": 47,
+        "gender": "Female",
+        "occupation": "Unofficial Lower Deck Leader (former security)",
+        "socialClass": "Rat Royalty",
+        "radiationLevel": 62
+      },
+      "appearance": {
+        "physique": "Compact, muscular, coiled tension",
+        "distinguishingFeatures": "Shaved head with navigational tattoos, prominent facial scar",
+        "clothing": "Salvaged pressure suit components always ready for deployment",
+        "movement": "Predatory economy, never wastes motion"
+      },
+      "psychology": {
+        "primaryMotivation": "Survival of her people by any means necessary",
+        "fears": ["Power vacuum leading to Lower Deck chaos", "Running out of leverage against the Brass", "Dying before securing escape for her key people"],
+        "desires": ["Revenge against corporate exploitation", "Control of essential station resources", "Eventual return to Earth on her terms"],
+        "contradictions": ["Brutal methods toward humanitarian ends", "Despises authority while wielding it absolutely", "Protective of community while sacrificing individuals"]
+      },
+      "background": {
+        "origin": "Corporate security forces, elite training",
+        "definingEvents": [
+          "Witnessing corporate sacrifice of mining team",
+          "'Going native' and establishing Lower Deck power base",
+          "First major conflict with station authorities resulting in facial scar"
+        ],
+        "specialSkills": ["Tactical assessment", "Resource allocation under scarcity", "Violence as precise tool", "Network management"],
+        "darkSecrets": ["Maintains kill list of corporate executives", "Has sabotaged previous evacuation attempts", "Experimentally enhanced with E. jovianus symbiosis"]
+      },
+      "relationships": {
+        "max": "Values skills while exploiting guilt, complex respect/use dynamic",
+        "gilbert": "Monitors closely as threat and potential resource",
+        "valdora": "Deep suspicion mixed with recognition of potential alliance",
+        "guiseppe": "Professional respect with ideological standoffs"
+      },
+      "speech": {
+        "pattern": "Clipped, cold commands with elaborate threatening hypotheticals",
+        "catchphrases": ["Management has certain expectations...", "Assets receive privileges; liabilities take the long walk", "We understand each other"],
+        "quirks": "Refers to herself as 'management,' taps rhythms while awaiting responses"
+      },
+      "narrative": {
+        "archetype": "Necessary Evil Becoming Reluctant Ally",
+        "growthArc": "From pure survival focus to larger vision of future",
+        "function": "Access to station's underground resources and information"
+      },
+      "statusTrackers": {
+        "control": "Maintaining but increasingly challenged as crisis deepens",
+        "radiation": "Advanced symptoms managed through experimental treatments",
+        "alliances": "Shifting pragmatically as Great Attractor threat becomes undeniable"
+      }
+    }
+  ]
+}

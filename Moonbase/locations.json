@@ -1,0 +1,276 @@
+{
+  "stationSections": {
+    "upperHex": {
+      "officialDesignation": "Executive and Command Module Delta-9-A",
+      "description": "Six-sided primary control hub with artificial gravity and premium life support",
+      "securityLevel": "Maximum - biometric and credential verification required",
+      "population": "32 permanent personnel, variable VIP visitors",
+      "keyLocations": [
+        {
+          "name": "Command Center",
+          "function": "Primary station operations and monitoring",
+          "restricted": "All but highest clearance personnel",
+          "significance": "Contains override capabilities for all station systems",
+          "secrets": "Direct communication line to Earth hidden from most staff"
+        },
+        {
+          "name": "Quantum Communications Array",
+          "function": "Real-time data transmission to Earth despite light-speed limitations",
+          "restricted": "Communications specialists only",
+          "significance": "Only reliable contact with Earth authorities",
+          "secrets": "Recently showing evidence of Great Attractor interference"
+        },
+        {
+          "name": "Executive Quarters",
+          "function": "Living space for corporate and military leadership",
+          "restricted": "Residents and authorized staff only",
+          "significance": "Only private accommodations on station",
+          "secrets": "Contains evacuation pods unknown to general population"
+        },
+        {
+          "name": "Strategic Planning Room",
+          "function": "Secure meeting facility for sensitive discussions",
+          "restricted": "By invitation only",
+          "significance": "Completely isolated from station monitoring systems",
+          "secrets": "Where decision was made to abandon station without general evacuation"
+        }
+      ],
+      "environmentalFactors": {
+        "gravity": "0.8G (artificial)",
+        "atmosphere": "Earth-standard with enhanced oxygen",
+        "privacy": "All areas under surveillance except designated secure zones",
+        "amenities": "Imported Earth luxuries, entertainment systems, genuine food"
+      }
+    },
+    "middleRing": {
+      "officialDesignation": "Technical Operations Band Delta-9-B",
+      "description": "Circular arrangement of laboratories, control rooms, and technical facilities",
+      "securityLevel": "Moderate - credential verification with limited biometric checkpoints",
+      "population": "147 rotating technical personnel",
+      "keyLocations": [
+        {
+          "name": "Life Support Control",
+          "function": "Monitoring and maintenance of all atmospheric systems",
+          "restricted": "Environmental engineering team only",
+          "significance": "Can isolate sections in emergency protocols",
+          "secrets": "Programmed to prioritize Upper Hex in catastrophic failure"
+        },
+        {
+          "name": "Research Laboratory Alpha",
+          "function": "Primary E. jovianus research and development",
+          "restricted": "Science division with special clearance",
+          "significance": "Source of radiation protection innovations",
+          "secrets": "Experimenting with human-bacteria symbiosis without authorization"
+        },
+        {
+          "name": "Medical Bay",
+          "function": "Treatment facility for all official personnel",
+          "restricted": "Medical staff and patients only",
+          "significance": "Only advanced medical equipment on station",
+          "secrets": "Maintains secret records of radiation poisoning progression"
+        },
+        {
+          "name": "The Link",
+          "function": "Communal recreation and dining area",
+          "restricted": "All Middle Ring personnel",
+          "significance": "Primary social hub for information exchange",
+          "secrets": "Multiple unauthorized listening devices from various factions"
+        },
+        {
+          "name": "Technician Quarters",
+          "function": "Dormitory-style accommodations for technical staff",
+          "restricted": "Residents only",
+          "significance": "Designed to house 120 comfortably, currently at 147",
+          "secrets": "Several residents are secretly housing Lower Deck refugees"
+        }
+      ],
+      "environmentalFactors": {
+        "gravity": "Variable 0.2-0.4G (inconsistent artificial generation)",
+        "atmosphere": "Standard with occasional recycling odors",
+        "privacy": "Common areas monitored, personal quarters theoretically private",
+        "amenities": "Basic comfort provisions, limited entertainment options"
+      }
+    },
+    "lowerDeck": {
+      "officialDesignation": "Maintenance and Support Infrastructure Delta-9-C",
+      "description": "Labyrinthine network of corridors, storage areas, and repurposed spaces",
+      "securityLevel": "Minimal - sporadic checkpoint verification easily bypassed",
+      "population": "Official: 53 maintenance workers; Actual: 200+ including unofficial residents",
+      "keyLocations": [
+        {
+          "name": "The Sump",
+          "function": "Unofficial market and gathering place built around water filtration",
+          "restricted": "Open access with social gatekeeping",
+          "significance": "Heart of Lower Deck society and economy",
+          "secrets": "Conceals entrance to deeper unauthorized sections"
+        },
+        {
+          "name": "Glowhouse",
+          "function": "Unsanctioned radiation treatment clinic",
+          "restricted": "Those with payment or barter value",
+          "significance": "Only medical care available to Rats",
+          "secrets": "Experimental treatments derived from stolen research"
+        },
+        {
+          "name": "The Nest",
+          "function": "Hidden living quarters for unofficial children",
+          "restricted": "Most heavily protected secret in Lower Deck",
+          "significance": "Houses 12-15 children born on station or orphaned",
+          "secrets": "Location changes regularly to avoid detection"
+        },
+        {
+          "name": "Jupiter's Odds",
+          "function": "Gambling hall and information exchange",
+          "restricted": "Those vouched for by existing members",
+          "significance": "Primary economic driver of unofficial economy",
+          "secrets": "Run by Franciska as intelligence gathering operation"
+        },
+        {
+          "name": "Maintenance Control",
+          "function": "Official hub for station repair coordination",
+          "restricted": "Authorized maintenance personnel only",
+          "significance": "Access to station blueprints and systems",
+          "secrets": "Systems compromised to hide unauthorized activities"
+        }
+      ],
+      "environmentalFactors": {
+        "gravity": "Microgravity with occasional fluctuations",
+        "atmosphere": "Substandard with high recycled content, often contaminated",
+        "privacy": "No official surveillance but extensive informal observation",
+        "amenities": "Makeshift and improvised from scavenged materials"
+      }
+    },
+    "sublevel": {
+      "officialDesignation": "Extremophile Cultivation Facility Delta-9-D",
+      "description": "Partially subterranean facility built into Io's crust",
+      "securityLevel": "High - specialized access limited to essential personnel",
+      "population": "28 specialists on rotating shifts",
+      "keyLocations": [
+        {
+          "name": "Primary Cultivation Tanks",
+          "function": "Growth medium for E. jovianus bacteria",
+          "restricted": "Cultivation specialists only",
+          "significance": "Source of all radiation shielding compounds",
+          "secrets": "Bacteria showing unusual mutations since Great Attractor appearance"
+        },
+        {
+          "name": "Deep Sample Collection",
+          "function": "Access point to retrieve samples from Io's subsurface",
+          "restricted": "Collection teams with special training",
+          "significance": "Connected to liquid water reservoir 2km below",
+          "secrets": "Recent samples show evidence of organized rather than random mutations"
+        },
+        {
+          "name": "Shield Synthesis Lab",
+          "function": "Processing of bacterial compounds into usable shields",
+          "restricted": "Processing technicians and security",
+          "significance": "Creates the station's most valuable resource",
+          "secrets": "Production falling behind reported numbers for months"
+        },
+        {
+          "name": "Anomaly Containment",
+          "function": "Officially for containing contaminated samples",
+          "restricted": "Highest clearance research staff only",
+          "significance": "Heavily shielded from all forms of detection",
+          "secrets": "Currently housing a spatial anomaly linked to Great Attractor"
+        }
+      ],
+      "environmentalFactors": {
+        "gravity": "0.183G (Io natural)",
+        "atmosphere": "Specialized mixture optimized for bacterial growth",
+        "privacy": "Constant monitoring for contamination prevention",
+        "amenities": "Strictly utilitarian, no comfort considerations"
+      }
+    }
+  },
+  "surfaceLocations": {
+    "primaryLandingField": {
+      "officialDesignation": "Arrival Zone Alpha",
+      "description": "Reinforced plateau with landing pads and vehicle storage",
+      "distance": "0km (adjacent to main station entrance)",
+      "hazardLevel": "Moderate - protected from minor volcanic activity",
+      "facilities": ["Cargo processing", "Vehicle maintenance", "Emergency shelters"],
+      "significance": "Primary connection to orbital transport",
+      "uniqueFeatures": "Radiation shielding grid embedded in surface"
+    },
+    "mainMiningComplex": {
+      "officialDesignation": "Extraction Facility Gamma",
+      "description": "Massive industrial operation with multiple drilling sites",
+      "distance": "12km from main station",
+      "hazardLevel": "High - active geological area",
+      "facilities": ["Ore processing", "Equipment storage", "Worker rest facility"],
+      "significance": "Primary resource generation for station economy",
+      "uniqueFeatures": "Built to partially collapse and rebuild after major seismic events"
+    },
+    "yellowFlats": {
+      "officialDesignation": "Sulfur Plain Beta",
+      "description": "Vast expanse of solidified sulfur deposits",
+      "distance": "7-30km from main station (expanding area)",
+      "hazardLevel": "Varies with volcanic activity",
+      "facilities": ["Monitoring stations", "Emergency supply caches"],
+      "significance": "Most stable terrain for long-distance surface travel",
+      "uniqueFeatures": "Used for unofficial races and competitions among surface crews"
+    },
+    "theCaldera": {
+      "officialDesignation": "Volcanic Formation KDV-23",
+      "description": "Massive volcanic crater with active lava lake",
+      "distance": "42km from main station",
+      "hazardLevel": "Extreme - immediate death without specialized protection",
+      "facilities": ["Remote monitoring only"],
+      "significance": "Major source of geological data and early warning for activity",
+      "uniqueFeatures": "Eruptions create distinctive sulfur lightning visible station-wide"
+    },
+    "darksideOutpost": {
+      "officialDesignation": "Research Station Epsilon",
+      "description": "Small facility on Jupiter-facing side of Io",
+      "distance": "180km from main station",
+      "hazardLevel": "Extreme - highest radiation exposure on moon",
+      "facilities": ["Automated research equipment", "Emergency shelter"],
+      "significance": "Collects data during peak radiation periods",
+      "uniqueFeatures": "Only fully automated surface facility, requires drone maintenance"
+    },
+    "theNeedles": {
+      "officialDesignation": "Unofficial/No designation",
+      "description": "Forest of sulfur spires created by unusual volcanic processes",
+      "distance": "87km from main station",
+      "hazardLevel": "High - unstable formations and unpredictable gas vents",
+      "facilities": ["None official", "Rat hideouts and supply caches"],
+      "significance": "Navigation landmark and unofficial meeting point",
+      "uniqueFeatures": "Natural formations create electromagnetic interference with tracking systems"
+    }
+  },
+  "anomalousLocations": {
+    "jupiterShadow": {
+      "officialDesignation": "Observation Point Omega",
+      "description": "Location where Jupiter eclipses the sun, creating rare darkness on Io",
+      "occurrence": "17.9 minutes during specific points in orbit",
+      "significance": "Only time certain sensitive instruments can operate",
+      "anomalies": ["Unusual radiation patterns", "Reports of visual hallucinations"],
+      "greatAttractorEffect": "Shadow period extending by approximately 4 seconds per orbit"
+    },
+    "shimmerfault": {
+      "officialDesignation": "Geological Anomaly HR-819",
+      "description": "Fissure in surface with visible spacetime distortion effects",
+      "location": "23km northeast of main station, expanding",
+      "significance": "First physical manifestation of Great Attractor influence",
+      "anomalies": ["Objects appear on both sides simultaneously", "Time dilation measurable with standard equipment"],
+      "greatAttractorEffect": "Focal point for increasing gravitational anomalies"
+    },
+    "echoBasin": {
+      "officialDesignation": "Acoustic Phenomenon LC-2",
+      "description": "Depression where sounds repeat with increasing intensity",
+      "location": "56km from main station in mountainous region",
+      "significance": "Used by surface teams for emergency communication",
+      "anomalies": ["Echoes sometimes precede original sounds", "Recordings capture voices not present"],
+      "greatAttractorEffect": "Echoes now contain infrasonic components causing psychological effects"
+    },
+    "pillarOfIo": {
+      "officialDesignation": "None - undocumented officially",
+      "description": "Perfectly vertical sulfur formation, impossibly balanced",
+      "location": "104km from main station, only accessible during quiet seismic periods",
+      "significance": "Subject of spiritual reverence among Rats",
+      "anomalies": ["Unaffected by seismic activity", "Appears slightly different to each observer"],
+      "greatAttractorEffect": "Growing approximately 1mm per day since manifestation"
+    }
+  }
+}

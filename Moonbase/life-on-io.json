@@ -1,0 +1,195 @@
+{
+  "dailyLifePatterns": {
+    "stationCycles": {
+      "primary": "42-hour Ionian Day based on orbital period",
+      "workShifts": [
+        {"designation": "Jupiter Watch", "hours": "1-14", "primaryDuty": "Monitoring radiation levels and volcanic activity"},
+        {"designation": "Station Cycle", "hours": "15-28", "primaryDuty": "Internal maintenance and operations"},
+        {"designation": "Dark Side", "hours": "29-42", "primaryDuty": "Research, recreation, sleep cycle"}
+      ],
+      "criticalEvents": [
+        {"name": "The Shake", "timing": "Every 42 hours", "protocol": "All personnel secure for seismic activity"},
+        {"name": "Radiation Spike", "timing": "Variable - increasing frequency", "protocol": "Shelter in designated shield zones"},
+        {"name": "Purge Cycle", "timing": "Every 126 hours", "protocol": "Atmospheric system reset and filtration"}
+      ]
+    },
+    "classBasedRoutines": {
+      "brass": {
+        "wakeCycle": "Station standard 07:00-23:00",
+        "nutrition": "Earth-imported foodstuffs in Upper Hex Commissary",
+        "duties": "Administrative oversight, data analysis, communication with Earth",
+        "recreation": "Virtual reality suites, private media libraries, hydroponics garden access",
+        "privileges": ["Regular medical screening", "Priority radiation protection", "Guaranteed evacuation slot"]
+      },
+      "technicians": {
+        "wakeCycle": "Rotating shifts covering all station cycles",
+        "nutrition": "Synthesized protein supplement with occasional imported luxury items",
+        "duties": "System maintenance, research tasks, operational coordination",
+        "recreation": "Communal viewing rooms, limited game systems, regulated alcohol rations",
+        "privileges": ["Monthly medical assessment", "Standard radiation protection", "Evacuation priority based on skill criticality"]
+      },
+      "rats": {
+        "wakeCycle": "Self-determined, often contrary to station standard",
+        "nutrition": "Station scraps, black market goods, occasionally self-grown fungi",
+        "duties": "Unofficial maintenance, black market operations, survival",
+        "recreation": "Gambling, rigged sporting events, homebrew alcohol consumption",
+        "privileges": ["Self-administered medical care", "Scavenged radiation protection", "No evacuation allocation"]
+      }
+    }
+  },
+  "survivalAdaptations": {
+    "radiationCoping": [
+      {
+        "name": "Badge-swapping",
+        "description": "Trading radiation exposure badges to distribute recorded dosage among multiple individuals",
+        "risk": "Cumulative exposure tracking becomes impossible, leading to unexpected terminal cases",
+        "prevalence": "Common among Rats, occasional among desperate Technicians"
+      },
+      {
+        "name": "Rad-Flush",
+        "description": "Black market pharmaceutical cocktail that temporarily suppresses radiation sickness symptoms",
+        "risk": "Kidney failure, hallucinations, eventual decreased efficacy",
+        "prevalence": "Universal among Rats with advanced exposure"
+      },
+      {
+        "name": "Lead-lining",
+        "description": "Retrofitting living quarters with scavenged lead shielding",
+        "risk": "False sense of security, toxic exposure, inadequate protection",
+        "prevalence": "Standard practice in Lower Deck habitation units"
+      },
+      {
+        "name": "Rotation Gaming",
+        "description": "Manipulating duty rosters to minimize time in high-exposure areas",
+        "risk": "Administrative punishment, critical system neglect",
+        "prevalence": "Sophisticated networks among Technicians"
+      },
+      {
+        "name": "Symbiotic Infusion",
+        "description": "Experimental procedure injecting modified E. jovianus bacteria into bloodstream",
+        "risk": "Systemic infection, unpredictable mutation, painful death",
+        "prevalence": "Desperate terminal cases only, primarily in unsanctioned Lower Deck facilities"
+      }
+    ],
+    "psychologicalAdaptations": [
+      {
+        "name": "Ionian Fatalism",
+        "description": "Philosophical acceptance of inevitable death, focusing instead on immediate experience",
+        "manifestation": "Dark humor, extreme risk-taking, intense short-term relationships",
+        "prevalence": "Nearly universal after 2+ years on station"
+      },
+      {
+        "name": "Countdown Fixation",
+        "description": "Obsessive tracking of radiation exposure, time remaining before evacuation",
+        "manifestation": "Elaborate personal tallying systems, ritualistic badge checking",
+        "prevalence": "Common among new arrivals and Technicians nearing contract completion"
+      },
+      {
+        "name": "Volcanic Reverence",
+        "description": "Quasi-religious attribution of sentience to Io's geological activity",
+        "manifestation": "Offering rituals before surface expeditions, interpreting eruption patterns as omens",
+        "prevalence": "Primarily among long-term surface workers and Rats"
+      },
+      {
+        "name": "Jubilation Excess",
+        "description": "Extreme celebration behaviors following survival of crisis events",
+        "manifestation": "Station-wide parties after major eruptions or breaches, resource-intensive festivities",
+        "prevalence": "Cross-class phenomenon intensifying as Great Attractor threat increases"
+      }
+    ]
+  },
+  "dietAndSustenance": {
+    "foodSources": [
+      {
+        "type": "Imported Earth Goods",
+        "availability": "Brass only, occasional Technician access through merit award",
+        "examples": ["Freeze-dried meats", "Preserved fruits", "Real coffee", "Chocolate"]
+      },
+      {
+        "type": "Station-Synthesized",
+        "availability": "Standard ration for all official personnel",
+        "examples": ["Protein paste (various artificial flavors)", "Nutrient tablets", "Vitamin-enriched hydration fluid"]
+      },
+      {
+        "type": "Lower Deck Cultivation",
+        "availability": "Rats and those with black market connections",
+        "examples": ["Radiation-resistant fungi", "Bacteria-derived protein blocks", "Distilled alcohols"]
+      },
+      {
+        "type": "Experimental",
+        "availability": "Research personnel and their associates",
+        "examples": ["Modified E. jovianus applications", "Jupiter-light processed algae", "Synthetic flavor compounds"]
+      }
+    ],
+    "waterCycle": {
+      "sources": ["Human waste reclamation", "Equipment condensation", "Io ice mining (limited)"],
+      "qualityLevels": [
+        {"grade": "Premium", "access": "Brass only", "description": "Triple-filtered, mineral-enhanced"},
+        {"grade": "Standard", "access": "Technicians and above", "description": "Basic filtered reclamation"},
+        {"grade": "Gray", "access": "Lower Deck", "description": "Minimally treated, slightly radioactive"}
+      ],
+      "consumption": "Strictly rationed at 2L per person per day regardless of class"
+    }
+  },
+  "communicationAndInformation": {
+    "officialChannels": [
+      {
+        "name": "Station Broadcast System",
+        "access": "All personnel",
+        "content": "Emergency alerts, shift changes, official announcements",
+        "reliability": "Highly reliable but information often sanitized"
+      },
+      {
+        "name": "Department DataNet",
+        "access": "Relevant personnel only",
+        "content": "Technical data, research findings, operational directives",
+        "reliability": "Accurate but compartmentalized information"
+      },
+      {
+        "name": "Earth Uplink",
+        "access": "Brass only",
+        "content": "Corporate communications, family messages, news from solar system",
+        "reliability": "Increasingly sporadic since Great Attractor manifestation"
+      }
+    ],
+    "unofficialNetworks": [
+      {
+        "name": "The Whisper Line",
+        "access": "Rats and sympathetic Technicians",
+        "medium": "Repurposed maintenance communication devices",
+        "content": "Black market coordination, movement of Brass, radiation warnings",
+        "reliability": "Coded and cryptic but often more timely than official channels"
+      },
+      {
+        "name": "Wall Scratches",
+        "access": "Anyone traversing Lower Deck maintenance tunnels",
+        "medium": "Physical markings on station infrastructure",
+        "content": "Safe routes, danger areas, resource caches",
+        "reliability": "Requires knowledge of evolving symbol system"
+      },
+      {
+        "name": "The Melting Pot",
+        "access": "Cross-class gathering spot in neutral territory",
+        "medium": "Face-to-face conversation in unofficial bar",
+        "content": "Rumors, personal exchanges, unofficial deals",
+        "reliability": "Highly variable, affected by alcohol consumption"
+      }
+    ]
+  },
+  "reproductionAndContinuity": {
+    "policies": {
+      "official": "Three-year reproduction moratorium due to radiation concerns and resource limitations",
+      "reality": "Unsanctioned pregnancies occur in all classes, handled differently by social stratum"
+    },
+    "management": {
+      "brass": "Private medical care, optional stasis until return to Earth",
+      "technicians": "Mandatory contraceptive implants, pregnancy results in contract termination",
+      "rats": "Self-managed with black market contraceptives/abortifacients, rare births in Lower Deck"
+    },
+    "children": {
+      "official": "No children sanctioned on station",
+      "reality": "12-15 children currently in Lower Deck, existing in unofficial capacity",
+      "education": "Ad-hoc schooling by former teachers among Rats",
+      "future": "Never registered in Earth databases, effectively stateless"
+    }
+  }
+}

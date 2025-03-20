@@ -1,0 +1,168 @@
+{
+  "stationInternal": {
+    "transportTubes": {
+      "description": "Pressurized cylindrical passages connecting major station sections",
+      "propulsion": "Magnetic rail system with emergency manual cranks",
+      "capacity": "Up to 8 personnel or 500kg cargo per car",
+      "accessibility": "All personnel with valid station ID",
+      "reliability": "97% operational capacity, frequent maintenance required",
+      "restrictions": "Movement between social strata requires authorization",
+      "slang": "The Pipes"
+    },
+    "maintenanceCrawlways": {
+      "description": "Narrow access tunnels throughout station infrastructure",
+      "propulsion": "Human locomotion only",
+      "capacity": "Single person with minimal equipment",
+      "accessibility": "Officially maintenance personnel only; practically used by Rats extensively",
+      "reliability": "Completely passive system, 100% available barring physical blockage",
+      "restrictions": "None enforced effectively",
+      "slang": "Rat Runs"
+    },
+    "cargoLifts": {
+      "description": "Industrial elevators connecting vertical sections of station",
+      "propulsion": "Hydraulic and counterweight systems",
+      "capacity": "Up to 2000kg or 12 personnel",
+      "accessibility": "Restricted to authorized personnel, heavily monitored",
+      "reliability": "99.7% operational requirement with redundant systems",
+      "restrictions": "Biometric verification required for operation",
+      "slang": "The Drops"
+    },
+    "emergencyEgressTubes": {
+      "description": "Rapid evacuation slides connecting all levels to emergency shelters",
+      "propulsion": "Gravity-assisted with compressed air boosters",
+      "capacity": "Single person per tube, multiple tubes per junction",
+      "accessibility": "Sealed except during emergency protocols",
+      "reliability": "Tested quarterly, 99.9% required operational status",
+      "restrictions": "Unauthorized use punishable by expulsion",
+      "slang": "Flush Chutes"
+    }
+  },
+  "surfaceVehicles": {
+    "standardCrawler": {
+      "description": "Six-wheeled pressurized vehicle for surface operations",
+      "propulsion": "Electric motors with sulfur-cell backup",
+      "range": "200km at standard speed, 50km at emergency speed",
+      "shielding": "Double-hull with E. jovianus compound coating",
+      "capacity": "Driver plus 3 passengers or 750kg cargo",
+      "special": "Equipped with retractable sampling arms and emergency shelter mode",
+      "maintenance": "Required after every 10 surface excursions",
+      "slang": "Bugs"
+    },
+    "heavyExtractor": {
+      "description": "Massive tracked mining vehicle with drill assemblies",
+      "propulsion": "Hybrid nuclear-electric engine",
+      "range": "Operational for 14 days without resupply",
+      "shielding": "Triple-hull with active radiation countermeasures",
+      "capacity": "Crew of 5 plus 20 tons cargo capacity",
+      "special": "Contains mini-refinery for initial ore processing",
+      "maintenance": "Continuous during operation, major overhaul quarterly",
+      "slang": "Jaws"
+    },
+    "scoutHopper": {
+      "description": "Light two-person vehicle capable of limited jumps over terrain",
+      "propulsion": "Ducted fans with compressed gas thrusters",
+      "range": "150km total, maximum 20km between recharge",
+      "shielding": "Minimal; relies on speed rather than protection",
+      "capacity": "Pilot plus observer or 200kg equipment",
+      "special": "Capable of 50m vertical jumps to navigate volcanic terrain",
+      "maintenance": "Extensive pre- and post-mission checks required",
+      "slang": "Fleas"
+    },
+    "emergencyPod": {
+      "description": "Single-person survival vehicle for stranded personnel",
+      "propulsion": "Limited directional thrusters",
+      "range": "Not designed for travel; 50km distress beacon range",
+      "shielding": "Maximum possible radiation protection for size",
+      "capacity": "One person with minimal survival supplies",
+      "special": "Self-deploying from larger vehicles when systems detect abandonment",
+      "maintenance": "Inspected monthly, sealed between checks",
+      "slang": "Coffins"
+    },
+    "improvisedSled": {
+      "description": "Unauthorized surface transport cobbled from salvaged parts",
+      "propulsion": "Repurposed extraction machinery motors",
+      "range": "Highly variable; 5-100km depending on construction",
+      "shielding": "Ad-hoc protection of varying effectiveness",
+      "capacity": "Typically 1-2 persons with minimal gear",
+      "special": "Invisible to official tracking systems",
+      "maintenance": "Continuous jury-rigging during use",
+      "slang": "Deathtraps"
+    }
+  },
+  "orbitalTransport": {
+    "supplyShuttle": {
+      "description": "Medium-range vessel connecting Io to Jovian orbital stations",
+      "propulsion": "Chemical primary engines with ion drive secondary",
+      "range": "Full Jovian system capability with refueling",
+      "capacity": "Up to 50 tons cargo or 20 passengers in emergency",
+      "frequency": "Scheduled monthly; increasingly irregular since Great Attractor",
+      "docking": "Upper Hex primary dock with emergency alternatives",
+      "special": "Equipped for minimal mining load return to orbital refineries",
+      "slang": "Lifeline"
+    },
+    "personnelTransfer": {
+      "description": "Small, fast vessel for crew rotation and emergency evacuation",
+      "propulsion": "High-efficiency ion drive with emergency chemical boosters",
+      "range": "Io to Jupiter orbital stations with 30% reserve",
+      "capacity": "12 passengers with personal effects only",
+      "frequency": "Quarterly scheduled rotation, emergency capacity as needed",
+      "docking": "Dedicated Upper Hex secure airlock",
+      "special": "Medical stasis capability for radiation casualties",
+      "slang": "Escape Hatch"
+    },
+    "corporateExecutive": {
+      "description": "Luxury short-range craft for VIP transportation",
+      "propulsion": "Cutting-edge drive systems with redundancies",
+      "range": "Limited to Jovian system with multiple refueling",
+      "capacity": "1-3 VIPs with staff of up to 5",
+      "frequency": "Irregular, by executive demand only",
+      "docking": "Exclusive Upper Hex reception bay",
+      "special": "Maximum possible comfort with Earth-comparable amenities",
+      "slang": "Golden Chariot"
+    },
+    "unauthorizedLaunch": {
+      "description": "Converted mining equipment repurposed for desperate orbital attempts",
+      "propulsion": "Scavenged thruster units, often incompatible",
+      "range": "Theoretically sufficient to reach orbital sanctuary",
+      "capacity": "2-3 maximum with no comforts or redundancies",
+      "frequency": "Three confirmed attempts since station establishment",
+      "docking": "Improvised launch from maintenance airlocks",
+      "special": "Survival rate: 0%",
+      "slang": "Suicide Box"
+    }
+  },
+  "specializedEquipment": {
+    "personalMobilityEnhancers": {
+      "description": "Exoskeletal framework for increased carrying capacity and radiation protection",
+      "users": "Surface teams, heavy maintenance personnel",
+      "enhancement": "Strength amplification (3x human baseline), limited jump assist",
+      "limitations": "Power supply for 8 hours maximum operation",
+      "availability": "Official issue to Technicians; bootleg versions in Lower Deck",
+      "slang": "Bones"
+    },
+    "emergencyPersonalPropulsion": {
+      "description": "Single-use jetpack for emergency escape from surface disasters",
+      "users": "All personnel during surface operations",
+      "enhancement": "Ballistic trajectory up to 2km from activation point",
+      "limitations": "No steering after initial vector selection",
+      "availability": "Mandatory for sanctioned surface operations",
+      "slang": "Last Chance"
+    },
+    "tunnelBorer": {
+      "description": "Personnel-operated drilling apparatus for creating emergency passages",
+      "users": "Specialized emergency response teams",
+      "enhancement": "Can create 1m diameter tunnel through standard station materials",
+      "limitations": "Extreme power requirements, heat generation",
+      "availability": "One per major station section, sealed emergency lockers",
+      "slang": "The Worm"
+    },
+    "surfaceTether": {
+      "description": "Anchored cable system for traversing unstable terrain",
+      "users": "Survey teams, sample collection specialists",
+      "enhancement": "Allows access to otherwise impassable volcanic features",
+      "limitations": "Requires two operators minimum",
+      "availability": "Standard equipment for geological teams",
+      "slang": "Lifeline"
+    }
+  }
+}

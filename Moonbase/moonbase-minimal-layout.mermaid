@@ -1,0 +1,29 @@
+flowchart TD
+    A[Surface Level] --> B[Triple Airlocks]
+    A --> C[Control Tower]
+    A --> D[Hangars]
+    A --> E[Hydroponics Domes]
+    
+    B --> F[Central Hub]
+    
+    F --> G[Level 1 - Operations]
+    F --> H[Level 2 - Research]
+    F --> I[Level 3 - Infrastructure]
+    
+    G --> G1[Command]
+    G --> G2[Security]
+    G --> G3[Medical]
+    G --> G4[Residential 1]
+    
+    H --> H1[Labs]
+    H --> H2[Production]
+    H --> H3[Residential 2]
+    
+    I --> I1[Power Systems]
+    I --> I2[Air Systems] 
+    I --> I3[Water Systems]
+    I --> I4[Residential 3]
+    
+    F --> J[Tunnel Network]
+    J --> E
+    J --> D

@@ -1,0 +1,35 @@
+﻿Cognitive framework definition:
+- "NarrativeSpittoon.txt" is a module of instructions for use when generating fictional texts for consideration with Deep Thinking LLMs.
+- "ghost-writer-style-guide.md" provide guidelines for the ghost writing style which shall be used in any suggestions for rewrites of any passages that are identified as weak by the scoring systems.
+- "HolographicTutor.txt" contains 4 functions for the high level Scoring, Review, Critique and identifying areas of weakness in a manuscript withholding suggestions by default, at the college degree level.
+
+
+Universe Core Documentation:
+- world.md - the setting of the story
+- characters.md - the characters in the story
+- speechstyles.md - the speech styles of the characters
+- io-glossary.md - the glossary of terms used in the story
+
+Technical Specifications:
+- life-on-io.json - the technical specifications of the moon base
+- characters.json - the characters in the story
+- locations.json - the locations in the story 
+
+Visualization Resources:
+- io-characteristics.mermaid - the characteristics of the moon base
+- moonbase-structure.mermaid - the structure of the moon base
+- radiation-systems.mermaid - the radiation systems of the moon base
+- moonbase-minimal-layout.mermaid - the minimal layout of the moon base
+
+
+Content Structure Tags:
+- The setting is defined inside "world.md"
+- The characters personality definitions are listed inside "characters.json" & "characters.md"
+- The speech styles are defined inside "speechstyles.md"
+- The Ghost Writing guidance is defined inside "ghost-writer-style-guide.md"
+
+
+Processing Framework:
+- Cross-referenced document relationships
+- Technical specification integration
+- Visualization resource utilization
