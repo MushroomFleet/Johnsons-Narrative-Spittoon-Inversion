@@ -1,0 +1,67 @@
+# Westwick Noir: A Choose Your Own Adventure Story Structure
+
+```mermaid
+flowchart TD
+    %% Main Storyline - "Good" Path
+    P0[Page 0: Case Introduction] --> P1[Page 1: Initial Investigation]
+    P1 -->|"Choice A (Trust informant)"| P2A[Page 2A: The Shallows Lead]
+    P1 -->|"Choice B (Investigate alone)"| P2B[Page 2B: Corporate Trail]
+    
+    P2A -->|"Choice A (Confront suspect)"| P3AA[Page 3AA: The Chase]
+    P2A -->|"Choice B (Gather more evidence)"| P3AB[Page 3AB: Shadow Agency Encounter]
+    
+    P2B -->|"Choice A (Accept corporate help)"| P3BA[Page 3BA: Lab Infiltration]
+    P2B -->|"Choice B (Work with street contacts)"| P3BB[Page 3BB: Harbor Town Revelation]
+    
+    P3AA -->|"Choice A (Take moral high road)"| P4AAA[Page 4AAA: Justice Prevails]
+    P3AA -->|"Choice B (Compromise for greater good)"| P4AAB[Page 4AAB: Necessary Compromise]
+    
+    P3AB -->|"Choice A (Trust the Agency)"| P4ABA[Page 4ABA: Official Channels]
+    P3AB -->|"Choice B (Keep evidence as insurance)"| P4ABB[Page 4ABB: Personal Insurance]
+    
+    P3BA -->|"Choice A (Report everything found)"| P4BAA[Page 4BAA: Corporate Whistleblower]
+    P3BA -->|"Choice B (Selective reporting)"| P4BAB[Page 4BAB: Strategic Silence]
+    
+    P3BB -->|"Choice A (Save the dame)"| P4BBA[Page 4BBA: Heroic Rescue]
+    P3BB -->|"Choice B (Secure the artifact)"| P4BBB[Page 4BBB: Artifact Security]
+    
+    %% Final Pages - Different Endings
+    P4AAA --> P5AAA[Page 5AAA: Very Good Ending - Complete Justice]
+    P4AAB --> P5AAB[Page 5AAB: Good Ending - Practical Justice]
+    P4ABA --> P5ABA[Page 5ABA: Neutral Ending - By the Book]
+    P4ABB --> P5ABB[Page 5ABB: Good Ending - Personal Justice]
+    P4BAA --> P5BAA[Page 5BAA: Bad Ending - Corporate Revenge]
+    P4BAB --> P5BAB[Page 5BAB: Neutral Ending - Compromise]
+    P4BBA --> P5BBA[Page 5BBA: Good Ending - Heroic Detective]
+    P4BBB --> P5BBB[Page 5BBB: Very Bad Ending - Lost in Corruption]
+    
+    %% Style Classes for ending quality
+    classDef veryGood fill:#00b300,stroke:#333,stroke-width:1px,color:white;
+    classDef good fill:#66cc00,stroke:#333,stroke-width:1px,color:white;
+    classDef neutral fill:#ffcc00,stroke:#333,stroke-width:1px;
+    classDef bad fill:#ff9933,stroke:#333,stroke-width:1px;
+    classDef veryBad fill:#ff3300,stroke:#333,stroke-width:1px,color:white;
+    
+    %% Apply Classes to endings
+    class P5AAA veryGood;
+    class P5AAB,P5ABB,P5BBA good;
+    class P5ABA,P5BAB neutral;
+    class P5BAA bad;
+    class P5BBB veryBad;
+```
+
+## Outcome Categories:
+
+- **Very Good (★★★★★)**: Character achieves goals with exceptional outcomes
+- **Good (★★★★☆)**: Character achieves primary goals with some compromises
+- **Neutral (★★★☆☆)**: Mixed results with both gains and losses
+- **Bad (★★☆☆☆)**: Character fails at primary goals but avoids worst outcomes
+- **Very Bad (★☆☆☆☆)**: Character fails and suffers significant negative consequences
+
+## Hero's Journey Elements (In Reverse):
+1. **Final Pages (5)**: Return with Elixir (but with varying degrees of success)
+2. **Level 4 Pages**: Resurrection/Transformation
+3. **Level 3 Pages**: The Road Back/Reward
+4. **Level 2 Pages**: Ordeal/Approach
+5. **Level 1 Page**: Meeting Mentors/Crossing Threshold
+6. **Page 0**: Call to Adventure/Ordinary World
