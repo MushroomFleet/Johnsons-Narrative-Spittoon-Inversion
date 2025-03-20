@@ -1,5 +1,9 @@
 # Westwick Noir: A Choose Your Own Adventure
 
+To create your own adventure: 
+https://github.com/MushroomFleet/Johnsons-Narrative-Spittoon-Inversion/tree/main/prompts/CYOA
+The following is presented as typical output using the demo project (/default/).
+
 ## Story Overview
 
 You are Elijah Morales-Singh, a private detective in the partially flooded city of Westwick. A series of mysterious deaths among researchers at AeroCorp has led you to investigate a dangerous lunar artifact with incredible power. Your choices will determine the fate of the artifact, the people involved, and your own moral compass.
