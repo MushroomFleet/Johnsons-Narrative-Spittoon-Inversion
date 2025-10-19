@@ -133,3 +133,20 @@ narrative-spittoon-inversion/
 ---
 
 Happy storytelling! 📝✨ Let your creativity flow with Narrative Spittoon Inversion!
+
+## 📚 Citation
+
+### Academic Citation
+
+If you use this codebase in your research or project, please cite:
+
+```bibtex
+@software{johnsons_narrative_spittoon_inversion,
+  title = {Johnsons Narrative Spittoon Inversion: Unleash the power of writing backwards with LLMs},
+  author = {[Drift Johnson]},
+  year = {2025},
+  url = {https://github.com/MushroomFleet/Johnsons-Narrative-Spittoon-Inversion},
+  version = {1.0.0}
+}
+```
+
